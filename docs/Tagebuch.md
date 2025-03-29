@@ -595,3 +595,58 @@ Ich habe an einem neuen Song angefangen, und ihn "NIAX" genannt. Klingt cool, fi
 
 Ich habe ein speziellen "Bitcrush" Effekt auf den Master hinzugefügt, der den Song etwas komprimierter klingen lässt. Dies erstellt einen einzigarten Vibe, den ich sehr interessant finde.
 
+## Tag 208 - 16.03.2025
+
+Heute habe ich an dem Intro und dem Mid-Part weiter gearbeitet und den Master fertig gemacht (mehr High-End).
+
+## Tag 209 - 17.03.2025
+
+Ich habe den zweiten Drop fertig gemacht, einen Bass hinzugefügt und etwas Saturation zu dem Bass hinzugefügt.
+
+## Tag 210 - 18.03.2025
+
+Ich variierte die Drums etwas und fügte noch mehr SFX hinzu.
+
+## Tag 211 - 19.03.2025
+
+Ich fügte noch mehr SFX hinzu (Risers, Crashes, etc.) und arbeitete weiter an dem Arrangement (Outro)
+
+## Tag 212 - 20.03.2025
+
+Ich habe das Outro fertig gemacht (Lautstärke Fade-In) und ein paar Transitions hinzugefügt.
+
+## Tag 213 - 21.03.2025
+
+Ich habe an dem Master noch etwas gearbeitet, ich denke NIAX ist nun fertig.
+
+## Tag 214 - 22.03.2025
+
+Heute habe ich an NIAX noch ein bisschen mehr gearbeitet (leichte Mix veränderung und Arrangement fehlerbehebung), nun ist er wirklich fertig.
+
+## Tag 215 - 23.03.2025
+
+Heute habe ich einen neuen Song angefangen, er soll "APELO DO CIMA" heißen (klingt cool irgendwie).
+
+## Tag 216 - 24.03.2025
+
+Ich habe an einer Melodie angefangen, und schonmal die Drums sowie das Mastering hinzugefügt.
+
+## Tag 217 - 25.03.2025
+
+Ich habe die Drums fertig gemixt und platziert, sowie die Melodie gelayered. Ich habe dazu schon ein paar SFX (Transitions und Crashes) hinuzugefügt.
+
+## Tag 218 - 26.03.2025
+
+Ich habe ein paar Vocals und das Intro fertig gemacht. Dazu habe ich den Melodie-Mix verbessert (mehr Reverb und High-End).
+
+## Tag 219 - 27.03.2025
+
+Ich habe den Mid-Part hinzugefügt (Love-Philter, SFX sowie eine leichte Melodie Variation und Vocals).
+
+## Tag 220 - 28.03.2025
+
+Ich habe an den zweiten Drop gearbeitet, und eine starke Melodie Variation hinzugefügt sowie einen dritten Drop (der direkt danach kommt) wobei die Melodie wieder zu der normalne Variation zurückkehrt.
+
+## Tag 221 - 29.03.2025
+
+Ich habe das Outro hinzugefügt und fertig gestellt. Ich habe auch den Master und Mix der individuellen Sounds verbessert.

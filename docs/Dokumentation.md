@@ -143,3 +143,11 @@ Beispiel für Brazilian Funk Songs, die ich persönlich sehr mag:
 [Eternxlkz Style](https://open.spotify.com/intl-de/track/67smGwuPEtA6GAfeweAVNO?si=0d75825ace254056)
 
 [dashie Style](https://open.spotify.com/intl-de/track/2rCVGFo2htxWlkDwm3klAB?si=43c9ad4e9ba04788)
+
+## Informationen zu Copyright wegen den Vocals
+
+Manche Vocals sind von Künstlern, die diesen Copyright gegeben haben. Das heißt, dass ich diese Vocals in einem Song zwar benutzen darf, aber nicht ohne die Erlaubnis von den eigentliche Sänger veröffentlichen kann.
+
+Aus diesen Grund nehme ich grundsätzlich nur sogennante "Copyright-free" Vocals, welche kein Copyirght enthalten, damit ich keine Probleme mit irgendwelchen Sängern bekomme.
+
+Wenn ich jedoch entscheide, doch eine Vocal von einem Sänger zu benutzen der diese Copyright verliehen hat, kontaktiere ich diese Person und verhandele um einen kompromiss zu finden.

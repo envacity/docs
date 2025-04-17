@@ -650,3 +650,63 @@ Ich habe an den zweiten Drop gearbeitet, und eine starke Melodie Variation hinzu
 ## Tag 221 - 29.03.2025
 
 Ich habe das Outro hinzugefügt und fertig gestellt. Ich habe auch den Master und Mix der individuellen Sounds verbessert.
+
+## Tag 222 - 30.03.2025
+
+Ich habe den Mix der Melodie und die Sidechain von der Kick zu der Melodie und Bass erneuert. Dadurch hat die Melodie auch mehr High-End, welches den Klang deutlich verbessert. Die Sidechain ist nun kürzer aber stärker, wordurch sie nicht zu lang die Melodie leiser macht.
+
+## Tag 223 - 31.03.2025
+
+Ich habe noch mehr an dem Master gearbeitet (mit Ozone 11).
+
+## Tag 224 - 01.04.2025
+
+Heute habe ich noch ein paar SFX hinzugefügt sowohl dessen Lautstärke reduziert. Meine Leistung ist leider beschränkt, da ich krank bin.
+
+## Tag 225 - 02.04.2025
+
+Heute habe ich APELO DO CIMA fertig gemacht. Ich habe die Melodie noch mehr gelayered und sie Stereo-Seperated (um den Sound breiter und stärker klingen zu lassen).
+
+## Tag 226 - 03.04.2025
+
+Ich habe einen neuen Song erstellt, er soll "HYPNO DA FUNK" heißen. Er soll sehr aggressiv und intensiv klingen.
+
+## Tag 227 - 04.04.2025
+
+Ich habe eine Melodie mit sehr vielen layern erstellt, und diese extrem aggressiv gemixt. Außerdem habe ich noch den Bass hinzugefügt und gemixt (sehr viel Saturation und Low-End).
+
+## Tag 228 - 05.04.2025
+
+Die melodie ist nun fertig. Ich fügte noch sehr viel Distortion und vocals hinzu. Außerdem machte ich die Drums, und mixte diese auch leicht (High-End leicht entfernt). Ich bin nicht mehr krank, weswegen ich jetzt auf jedenfall besser arbeiten kann.
+
+## Tag 229 - 06.04.2025
+
+Ich erstellte ein Intro, den ersten Drop und den Mid-Part. Dazu fügte ich auch noch SFX und Transitions hinzu, um den Drop auch mehr Energie zu geben.
+
+## Tag 230 - 07.04.2025
+
+Ich mixte alle Sounds und fügte eine Vocal hinzu für das Intro.
+
+## Tag 231 - 08.04.2025
+
+Ich entfernte wieder die Vocal und ersetzte sie mit einer anderen (die besser klingt). Dann mixte ich diese Vocal auch noch.
+
+## Tag 232-239 - 09.04.2025-16.04.2025
+
+Heute habe ich nicht an dem Projekt gearbeitet, weil ich im Urlaub war.
+
+## Tag 240 - 17.04.2025
+
+Ich fügte eine Counter-Melodie hinzu, um dem Song etwas variation zu geben. Diese hat sehr viel High-End, da zurzeit im Song nicht viel davon vorhanden ist.
+
+## Tag 241 - 18.04.2025
+
+Heute habe ich den zweiten Drop und den Master fertig gestellt (Ozone 11, Saturn 2, Fresh Air, Fruity Love-Philter).
+
+## Tag 242 - 19.04.2025
+
+Ich habe noch ein paar SFX hinzugefügt sowie das Ouro hinzugefügt.
+
+## Tag 243 - 20.04.2025
+
+Ich habe die Sidechain noch etwas stärker gemacht und ein paar SFX entfernt (ich habe ausversehen zu viele hinzugefügt). Der Song ist nun fertig denke ich, ich werde in den nächsten Tagen ihn noch ein paar mal anhören und gucken ob er wirklich fertig ist.

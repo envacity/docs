@@ -709,4 +709,32 @@ Ich habe noch ein paar SFX hinzugefügt sowie das Ouro hinzugefügt.
 
 ## Tag 243 - 20.04.2025
 
-Ich habe die Sidechain noch etwas stärker gemacht und ein paar SFX entfernt (ich habe ausversehen zu viele hinzugefügt). Der Song ist nun fertig denke ich, ich werde in den nächsten Tagen ihn noch ein paar mal anhören und gucken ob er wirklich fertig ist.
+Ich habe die Sidechain noch etwas stärker gemacht und ein paar SFX entfernt (ich hatte ausversehen davor zu viele hinzugefügt). Der Song ist nun fertig denke ich, ich werde in den nächsten Tagen ihn noch ein paar mal anhören und gucken ob er wirklich fertig ist.
+
+## Tag 244 - 21.04.2025
+
+Heute habe ich jeden Song nochmal angehört und jeweils nochmal leicht überarbeitet. Ich habe bei NIAX ein paar Pads hinzugefügt, um es etwas voller klingen zu lassen. Außerdem habe ich bei FUNK DO RAVE auch noch das Intro (mal wieder) leicht überarbeitet. Dieses Intro bei den Song ist irgendwie sehr schwer richtig hinzukriegen.
+
+## Tag 245 - 22.04.2025
+
+Heute habe ich vergessen, an dem Projekt zu arbeiten.
+
+## Tag 246 - 23.04.2025
+
+Heute habe ich vergessen, an dem Projekt zu arbeiten.
+
+## Tag 247 - 24.04.2025
+
+Heute habe ich vergessen, an dem Projekt zu arbeiten.
+
+## Tag 248 - 25.04.2025
+
+Ich hab die Melodie layers bei CASA DO MORTA erneuert, verbessert und mehr gemixt. Ich gehe einfach gerade jeden einzelnen Song nochmal durch und versuche diese noch zu verbessern wenn es etwas zu verbessern gibt. Dann habe ich bei TREPA DO MEDO nochmal die Vocals etwas leiser gemacht.
+
+## Tag 249 - 26.04.2025
+
+Heute habe ich an LUMINA FUNK leichte veränderungen noch gemacht (OTT auf die Melodie gepackt für mehr High-End und die Layers der Melodie etwas leiser gemacht).
+
+## Tag 250 - 27.04.2025
+
+Heute habe die "Slowed Down" Versionen von FUNK DO RAVE und NIAX gemacht (mit der Pitch-Down Funktion von FL Studio).

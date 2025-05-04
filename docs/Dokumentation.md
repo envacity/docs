@@ -159,4 +159,10 @@ Wenn ich jedoch entscheide, doch eine Vocal von einem Sänger zu benutzen der di
 Das Coverbild, welches ich für das Album benutze.
 ///
 
-Ich habe dieses Cover zusammen mit einem Freund und mit der hilfe von KI zusammengestellt. Danach habe ich dieses Bild auch editiert und "noise" zu dem Bild hinzugefügt (welches leichtes rauschen sogesagt darstellt).
+Ich habe dieses Cover zusammen mit einem Freund und mit der hilfe von KI zusammengestellt. Danach habe ich dieses Bild auch editiert und "noise" zu dem Bild hinzugefügt (welches leichtes rauschen sogesagt darstellt). Ich denke, es passt gut zu den einzelnen Songs, da es leicht aggressiv und vibrant aussieht.
+
+## Den Release planen
+
+Am besten ist es, Songs immer am Freitag zu veröffentlichen. Das liegt daran, dass der Algorithmus am Freitag die besten sogenannten "Algorithmischen Streams" gibt. Diese kommen jeden Freitag, und verstärken die Streams sehr, wodurch man generell eine bessere Leistung von dem Song (oder dem Album) bekommt.
+
+Dieser Algorithmus funktioniert bei einzelnen Songs, sowie auch EPs und Alben. Aus diesem Grund werde ich auch mein Album an einem Freitag veröffentlichen, um die so viele Streams wie möglich von dem Algorithmus zu bekommen.

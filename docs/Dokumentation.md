@@ -151,3 +151,10 @@ Manche Vocals sind von Künstlern, die diesen Copyright gegeben haben. Das heiß
 Aus diesen Grund nehme ich grundsätzlich nur sogennante "Copyright-free" Vocals, welche kein Copyirght enthalten, damit ich keine Probleme mit irgendwelchen Sängern bekomme.
 
 Wenn ich jedoch entscheide, doch eine Vocal von einem Sänger zu benutzen der diese Copyright verliehen hat, kontaktiere ich diese Person und verhandele um einen kompromiss zu finden.
+
+## Das Coverbild
+
+![Das Cover für das Album in hoher Qualität](assets/images/NEXUS.png)
+/// caption
+Das Coverbild, welches ich für das Album benutze.
+///

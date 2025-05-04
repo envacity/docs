@@ -159,3 +159,4 @@ Wenn ich jedoch entscheide, doch eine Vocal von einem Sänger zu benutzen der di
 Das Coverbild, welches ich für das Album benutze.
 ///
 
+Ich habe dieses Cover zusammen mit einem Freund und mit der hilfe von KI zusammengestellt. Danach habe ich dieses Bild auch editiert und "noise" zu dem Bild hinzugefügt (welches leichtes rauschen sogesagt darstellt).

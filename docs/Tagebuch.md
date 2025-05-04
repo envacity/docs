@@ -561,7 +561,7 @@ Ich habe den Mix und Master etwas gefixt und an dem Arrangementen etwas weiterge
 
 ## Tag 178 - 14.02.2025
 
-Heute habe ich vergessen, an dem Projekt zu arbeiten.
+Heute hatte ich keine lust, an dem Projekt zu arbeiten.
 
 ## Tag 179 - 15.02.2025
 
@@ -738,3 +738,31 @@ Heute habe ich an LUMINA FUNK leichte veränderungen noch gemacht (OTT auf die M
 ## Tag 250 - 27.04.2025
 
 Heute habe die "Slowed Down" Versionen von FUNK DO RAVE und NIAX gemacht (mit der Pitch-Down Funktion von FL Studio).
+
+## Tag 251 - 28.04.2025
+
+Heute habe ich vergessen, an dem Projekt zu arbeiten.
+
+## Tag 252 - 29.04.2025
+
+Heute hatte ich keine lust, an dem Projekt zu arbeiten.
+
+## Tag 253 - 30.04.2025
+
+Heute habe ich an dem letzten Song angefangen. Er soll "PLUSWAVE" heißen, klingt irgendwie cool (und passt zu dem anderen Song "UPWAVE"). Ich habe die Melodie, die Drums, den Mix bei der Melodie und den Drums, die Vocals, das Intro sowie den ersten Drop und Mid-part hinzugefügt. Sehr viel gearbeitet heute.
+
+## Tag 254 - 01.05.2025
+
+Ich habe den zweiten Drop sowie sehr viele SFX (Riser, Crashes, Impacts) hinzugefügt. Dazu habe ich im Intro einen Master Fade-In sowie viele Melodie layers hinzugefügt. Dazu habe ich den Bass und die verschiedenen Layer gemixt.
+
+## Tag 255 - 02.05.2025
+
+Heute habe ich das Outro gemacht sowie das ganze Mastering (mal wieder Ozone 11, Soft clipper, Fresh air und Saturn 2) gemacht und ein bisschen das Arrangement weitergebracht.
+
+## Tag 256 - 03.05.2025
+
+Heute habe ich ein paar Melodie Variation hinzugefügt und dabei noch die Melodie ansich leicht verändert. Dann habe ich den Song noch ein paar mal angehört, und ihn jeweils poliert und verbessert. Er sollte nun fertig sein.
+
+## Tag 257 - 04.05.2025
+
+Das Album ist jetzt soweit fertig, heute habe ich jeden Song nochmal angehört und leicht verbessert oder geändert. Dazu habe ich noch das Coverbild komplett neu gemacht und auch Effekte hinzugefügt.

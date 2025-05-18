@@ -109,7 +109,12 @@ Ich höre mir ein paar Tage später nochmal den Song an und wenn ich merke, dass
 Jeden Song einzigartig, aber nicht gleich schlecht zu machen, ist eine Herausforderung.
 
 
+
+
 ## Wege zur veröffentlichung des Albums
+
+
+
 
 Es gibt mehrere Wege, das Album zu veröffentlichen. Zum Beispiel könnte ich einen sogenannten "Distributor" benutzen, um das Album auf alle Musikplatformen raus zu bekommen. Einer dieser Distributor ist ein service namens "Distrokid". Mit diesem könnte ich das fertige Album innerhalb von Tagen auf allen Platformen fertig zum anhören haben.
 Jedoch wird bei einem Distributor with Distrokid der veröffentlichte Song nicht wirklich promoted (bewerbt). Dies führt zu wenigen Streams und Aufmerksamkeit zu dem Album.
@@ -122,7 +127,13 @@ Der Unterschied: das Label promoted (normalerweise) das Album und generiert so a
 Bei einem Label ist auch das Problem, dass der Release oft in vielen Wochen oder sogar Monaten sein kann, denn der Künstler bestimmt dies oftmals nicht. Es ist auch nicht immer garantiert, dass das Label deine Songs überhaupt aktzeptiert. Manchmal lehnen Labels deine Songs auch komplett ab.
 Jedes Label variiert sich bei Sachen wie Promotion immer.
 
+
+
+
 ## Unterschiede zwischen einem Label und einem Distributor
+
+
+
 
 - Distributor (Distrokid): schnell, funktioniert immer, keine Promotion (bewerbung)
 - Label: kann langsam sein, relativ zuverlässig, gute Promotion (variiert stark)
@@ -144,7 +155,13 @@ Beispiel für Brazilian Funk Songs, die ich persönlich sehr mag:
 
 [dashie Style](https://open.spotify.com/intl-de/track/2rCVGFo2htxWlkDwm3klAB?si=43c9ad4e9ba04788)
 
+
+
+
 ## Informationen zu Copyright wegen den Vocals
+
+
+
 
 Manche Vocals sind von Künstlern, die diesen Copyright gegeben haben. Das heißt, dass ich diese Vocals in einem Song zwar benutzen darf, aber nicht ohne die Erlaubnis von den eigentliche Sänger veröffentlichen kann.
 
@@ -152,7 +169,13 @@ Aus diesen Grund nehme ich grundsätzlich nur sogennante "Copyright-free" Vocals
 
 Wenn ich jedoch entscheide, doch eine Vocal von einem Sänger zu benutzen der diese Copyright verliehen hat, kontaktiere ich diese Person und verhandele um einen kompromiss zu finden.
 
+
+
+
 ## Das Coverbild
+
+
+
 
 ![Das Cover für das Album in hoher Qualität](assets/images/NEXUS.png)
 /// caption
@@ -161,8 +184,42 @@ Das Coverbild, welches ich für das Album benutze.
 
 Ich habe dieses Cover zusammen mit einem Freund und mit der hilfe von KI zusammengestellt. Danach habe ich dieses Bild auch editiert und "noise" zu dem Bild hinzugefügt (welches leichtes rauschen sogesagt darstellt). Ich denke, es passt gut zu den einzelnen Songs, da es leicht aggressiv und vibrant aussieht.
 
+
+
+
 ## Den Release planen
+
+
+
 
 Am besten ist es, Songs immer am Freitag zu veröffentlichen. Das liegt daran, dass der Algorithmus am Freitag die besten sogenannten "Algorithmischen Streams" gibt. Diese kommen jeden Freitag, und verstärken die Streams sehr, wodurch man generell eine bessere Leistung von dem Song (oder dem Album) bekommt.
 
 Dieser Algorithmus funktioniert bei einzelnen Songs, sowie auch EPs und Alben. Aus diesem Grund werde ich auch mein Album an einem Freitag veröffentlichen, um die so viele Streams wie möglich von dem Algorithmus zu bekommen.
+
+
+
+
+## Wo das Album erscheinen wird
+
+
+
+
+Ich werde das ganze Album auf ganz vielen Plattformen zur gleichen Zeit veröffentlichen, mithilfe meines Distributors (Distrokid).
+Hier ist ein Bild von all den Plattformen, auf den mein Album veröffentlich wird.
+
+![Alle Plattformen, gelistet in einem Bild](assets/images/Plattformen.png)
+/// caption
+Ein Bild von allen Plattformen, auf denen der Song veröffentlich wird.
+///
+
+Der Distributor versendet das Album an all diese Plattformen gleichzeitig, und veröffentlich dieses auch zur gleichen Zeit.
+
+
+
+
+## Schwierigkeiten bei der Songerstellung
+
+
+
+
+Mein Ziel mit diesem Album war es, jeden Song relativ einzigartig und unterschiedlich von einander zu machen. Dies war einer der schwierigsten Punkte and dieser ganzen Sache, weil es sich als äußerst schwierig heraustellt, 10 Songs einzigartig von einander zu produzieren, aber immernoch in der gleichen Musickrichtung zu bleiben. Dieser einzige Punkt allein verlängert eine Songproduktion sehr, weswegen es bei mir auch mehrere Tage oder Wochen dauern kann, bis ich die einzelnen Songs einzigartig, aber immernoch in einer hohen Qualität hergestellt habe.

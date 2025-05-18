@@ -766,3 +766,59 @@ Heute habe ich ein paar Melodie Variation hinzugefügt und dabei noch die Melodi
 ## Tag 257 - 04.05.2025
 
 Das Album ist jetzt soweit fertig, heute habe ich jeden Song nochmal angehört und leicht verbessert oder geändert. Dazu habe ich noch das Coverbild komplett neu gemacht und auch Effekte hinzugefügt.
+
+## Tag 258 - 05.05.2025
+
+Heute habe ich vergessen, an dem Projekt zu arbeiten.
+
+## Tag 259 - 06.05.2025
+
+Heute hatte ich keine lust, an dem Projekt zu arbeiten.
+
+## Tag 260 - 07.05.2025
+
+Heute habe ich ein letztes mal noch an PULA DA PULA gearbeitet und den Mix sowie die Melodie verbessert.
+
+## Tag 261 - 08.05.2025
+
+Ich habe die Reihenfolge der Songs nochmal genau bestimmt und geguckt, welche Songs oben und welche unten sein sollten.
+
+## Tag 262 - 09.05.2025
+
+Heute habe ich die Größe des Covers nochmal neu gemacht und kleiner gemacht, damit der Distributor den ich benutze (Distrokid) das Coverbild auch benutzen kann (es war am Anfang zu groß).
+
+## Tag 263 - 10.05.2025
+
+Heute habe ich eigentlich nur an der Dokumentation gearbeitet, und am den eigentlichen Projekt nicht viel geändert.
+
+## Tag 264 - 11.05.2025
+
+Heute habe ich eigentlich nur an der Dokumentation gearbeitet, und am den eigentlichen Projekt nicht viel geändert.
+
+## Tag 265 - 12.05.2025
+
+Ich habe heute probiert, das Album schonmal zu Distributieren. Jedoch habe ich ausversehen den falschen Künstler ausgewählt, und musste deswegen alles abbrechen und dann nochmal vorbereiten.
+
+## Tag 266 - 13.05.2025
+
+Heute habe ich nochmal an dem Coverbild etwas weitergearbeitet, und ein bisschen die Effekte verändert und leicht schwächer gemacht.
+
+## Tag 267 - 14.05.2025
+
+Heute habe ich vergessen, an dem Projekt zu arbeiten.
+
+## Tag 268 - 15.05.2025
+
+Heute habe ich vergessen, an dem Projekt zu arbeiten.
+
+## Tag 269 - 16.05.2025
+
+Heute musste ich an vielen anderen Songs arbeiten, weswegen ich nicht and dem Projekt gearbeitet habe.
+
+## Tag 270 - 17.05.2025
+
+Ich habe heute nochmal von allen Songs die "Slowed" und "Sped Up" Versionen erstellt und verarbeitet.
+
+## Tag 271 - 18.05.2025
+
+Heute habe ich das Album endlich distributiert, es soll am nächsten Freitag den 23ten Mai um 00:00 veröffentlich werden. Jetzt muss ich nur noch warten.

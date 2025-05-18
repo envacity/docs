@@ -205,14 +205,14 @@ Dieser Algorithmus funktioniert bei einzelnen Songs, sowie auch EPs und Alben. A
 
 
 Ich werde das ganze Album auf ganz vielen Plattformen zur gleichen Zeit veröffentlichen, mithilfe meines Distributors (Distrokid).
-Hier ist ein Bild von all den Plattformen, auf den mein Album veröffentlich wird.
+Hier ist ein Bild von all den Plattformen, auf den mein Album veröffentlicht wird.
 
 ![Alle Plattformen, gelistet in einem Bild](assets/images/Plattformen.png)
 /// caption
-Ein Bild von allen Plattformen, auf denen der Song veröffentlich wird.
+Ein Bild von allen Plattformen, auf denen der Song veröffentlicht wird.
 ///
 
-Der Distributor versendet das Album an all diese Plattformen gleichzeitig, und veröffentlich dieses auch zur gleichen Zeit.
+Der Distributor versendet das Album an all diese Plattformen gleichzeitig, und veröffentlicht dieses auch zur gleichen Zeit.
 
 
 

@@ -822,3 +822,7 @@ Ich habe heute nochmal von allen Songs die "Slowed" und "Sped Up" Versionen erst
 ## Tag 271 - 18.05.2025
 
 Heute habe ich das Album endlich distributiert, es soll am nächsten Freitag den 23ten Mai um 00:00 veröffentlich werden. Jetzt muss ich nur noch warten.
+
+## Tag 272 - 19.05.2025
+
+Heute habe ich gewartet.

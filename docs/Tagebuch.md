@@ -826,3 +826,7 @@ Heute habe ich das Album endlich distributiert, es soll am nächsten Freitag den
 ## Tag 272 - 19.05.2025
 
 Heute habe ich gewartet.
+
+## Tag 273 - 20.05.2025
+
+Heute habe ich gewartet.

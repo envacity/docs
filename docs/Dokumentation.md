@@ -148,13 +148,16 @@ Beispiel für Brazilian Funk Songs, die ich persönlich sehr mag:
 
 
 [LXNGVX Style](https://open.spotify.com/intl-de/track/3bvxDcAYgZyKQUb36ex0w8?si=f18d1a5315964d76)
+(Song Titel: HYDRA von LXNGVX)
 
 [Slide Style](https://open.spotify.com/intl-de/track/60AVJqYgyAlCckC6Nh2tgO?si=ce72dd26f938403f)
+(Song Titel: X-SLIDE von 2KE)
 
 [Eternxlkz Style](https://open.spotify.com/intl-de/track/67smGwuPEtA6GAfeweAVNO?si=0d75825ace254056)
+(Song Titel: SLAY! von Eternxlkz)
 
 [dashie Style](https://open.spotify.com/intl-de/track/2rCVGFo2htxWlkDwm3klAB?si=43c9ad4e9ba04788)
-
+(Song Titel: ultraphunk von dashie)
 
 
 
@@ -223,3 +226,32 @@ Der Distributor versendet das Album an all diese Plattformen gleichzeitig, und v
 
 
 Mein Ziel mit diesem Album war es, jeden Song relativ einzigartig und unterschiedlich von einander zu machen. Dies war einer der schwierigsten Punkte and dieser ganzen Sache, weil es sich als äußerst schwierig heraustellt, 10 Songs einzigartig von einander zu produzieren, aber immernoch in der gleichen Musickrichtung zu bleiben. Dieser einzige Punkt allein verlängert eine Songproduktion sehr, weswegen es bei mir auch mehrere Tage oder Wochen dauern kann, bis ich die einzelnen Songs einzigartig, aber immernoch in einer hohen Qualität hergestellt habe.
+
+Ein weiterer Punkt war es, die Songs richtig zu "mastern". Das heißt, den gesamten Song zu Mixen, Effekte erstellen und die Frequenzbereiche zu ändern. Mastering ansich ist sehr schwer, da man währen des Mixens jeden Aspekt des Songs mit einbeziehen muss, und gucken muss, dass nichts anfängt in deinen Augen schlechter zu klingen. Den Song gut zu mastern heißt, dass es für einen möglich ist, den kompletten Sound richtig verbessern zu können, denn das Mastering ist ein sehr wichtiger Aspekt in der Produktion eines Songs.
+
+Ich persönlich habe es auch gut hingekriegt, die einzelnen Songs gut zu mastern und auch gut zu mixen. Das liegt auch vielleicht daran, dass ich mittlerweile fast 5 Jahre erfahrung in der Musikproduktion habe. Dazu veröffentliche ich fast jede Woche auf Spotify und anderen Plattformen viele Songs. Ich habe stand 22.05.2025 gerade 412.279 Monatliche Hörer und über 8 Millionen Streams auf allen Plattformen. mein Account heißt "Envacity".
+
+
+
+
+## Weitere Bilder von dem Projekt
+
+
+
+
+Hier sind noch ein paar weitere Bilder von dem Projekt.
+
+![NIAX](assets/images/NIAX.png)
+/// caption
+Der Song "NIAX" von dem Album, geladen in FL Studio.
+///
+
+![Ozone 11](assets/images/Ozone.png)
+/// caption
+Das Plugin "Ozone 11" in dem "Imager" Tab, geladen in Fl Studio.
+///
+
+![MIDI](assets/images/MIDI.png)
+/// caption
+Eine Melodie in einem "Piano Roll" (Tool um Melodien oder Sonstiges zu erstellen und verwalten).
+///

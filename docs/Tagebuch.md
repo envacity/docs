@@ -834,3 +834,7 @@ Heute habe ich gewartet.
 ## Tag 274 - 21.05.2025
 
 Heute habe ich gewartet. Dazu habe ich auch schon geguckt, ob das Album auf meiner "Upcoming" Seite bei Spotify erscheint. Heute ist es dort endlich erschienen.
+
+## Tag 275 - 22.05.2025
+
+Heute habe ich gewartet. Morgen wird das Album veröffentlicht!

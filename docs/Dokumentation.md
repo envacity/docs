@@ -86,24 +86,12 @@ Da ich ja schon seit mehreren Jahren digital Musik produziere und auch veröffen
 
 
 
-Am Anfang erstelle ich als erstes die Melodie, welche ich probiere, so einzigartig wie möglich zu machen. Danach mixe ich diese und füge meistens mehr High-End sowie Distortion hinzu, damit es aggressiver klingt.
-
-Danach mache ich die Kick, Percs und den Bass/Subbass und mixe diese auch. Der Mix bei der Kick sollte sich auf den Low-End fokussieren und der Mix bei den Percs sollte sich auf das Mid-End fokussieren (damit sie sauber klingen). Der Bass sollte auch viel Low- bis Mid-End haben.
-
-
-
-
-Der nächste Schritt ist es, das Arrangement (Intro, Drop, Mid-Part, etc.) zu machen. Ich fange normalerweise bei dem Intro an und arbeite mich dann weiter. Ich mache danach weiter mit den SFX (Soundeffekte wie Übergänge oder Crashes) und positioniere diese im Intro, damit sie passen.
-
-Nachdem ich dies gemacht habe, füge ich die Vocals und Voxes hinzu und mixe diese auch gemäß (viel Mid-End und Reverb). Die Vocals sind alle Copyright-frei und ich versuche immer, die passenden Voxes und Vocals hinzuzufügen. Nach all dem fang ich an mit dem Mastering und der Sidechain. Dabei fokussiere ich mich auf die Clarity und die Stereo-Separation, damit der Sound klarer klingt.
-
+Am Anfang erstelle ich als Erstes die Melodie, welche ich probiere, so einzigartig wie möglich zu machen. Danach mixe ich diese und füge meistens mehr High-End sowie Distortion hinzu, damit es aggressiver klingt.
+Danach mache ich die Kick, Percs und den Bass/Subbass und mixe diese auch. Der Mix bei der Kick sollte sich auf das Low-End fokussieren und der Mix bei den Percs sollte sich auf das Mid-End fokussieren (damit sie sauber klingen). Der Bass sollte auch viel Low- bis Mid-End haben.
+Der nächste Schritt ist es, das Arrangement (Intro, Drop, Mid-Part etc.) zu machen. Ich fange normalerweise bei dem Intro an und arbeite mich dann weiter. Ich mache danach weiter mit den SFX (Soundeffekte wie Übergänge oder Crashes) und positioniere diese im Intro, damit sie passen.
+Nachdem ich dies gemacht habe, füge ich die Vocals und Voxes hinzu und mixe diese auch gemäß (viel Mid-End und Reverb). Die Vocals sind alle copyrightfrei und ich versuche immer, die passenden Voxes und Vocals hinzuzufügen. Nach all dem fang ich an mit dem Mastering und der Sidechain. Dabei fokussiere ich mich auf die Clarity und die Stereo-Separation, damit der Sound klarer klingt.
 Im nächsten Schritt erstelle ich Melodie- und Drum-Variationen, um den Song am Ende ein bisschen mehr zu variieren. Am Ende poliere ich den Master und Mix von einzelnen Sounds noch, layere die Melodie mehr und layere vielleicht noch den Bass.
-
-
-
-
 Diese ganzen Schritte variieren sich natürlich bei jedem Song, manchmal layere ich nicht den Bass und manchmal füge ich keine Vocals hinzu. Wenn alles fürs Erste fertig ist, exportiere ich die ".wav" Datei und lege sie in meinem Ordner ab. Natürlich speichere ich das Projekt danach auch noch.
-
 Ich höre mir ein paar Tage später nochmal den Song an und wenn ich merke, dass ich den Song bei ein paar Stellen noch verbessern kann, dann verbessere ich diese auch noch. Danach fange ich mit dem nächsten Song an.
 
 Jeden Song einzigartig, aber nicht gleich schlecht zu machen, ist eine Herausforderung.
@@ -116,13 +104,13 @@ Jeden Song einzigartig, aber nicht gleich schlecht zu machen, ist eine Herausfor
 
 
 
-Es gibt mehrere Wege, das Album zu veröffentlichen. Zum Beispiel könnte ich einen sogenannten "Distributor" benutzen, um das Album auf alle Musikplatformen raus zu bekommen. Einer dieser Distributor ist ein service namens "Distrokid". Mit diesem könnte ich das fertige Album innerhalb von Tagen auf allen Platformen fertig zum anhören haben.
-Jedoch wird bei einem Distributor with Distrokid der veröffentlichte Song nicht wirklich promoted (bewerbt). Dies führt zu wenigen Streams und Aufmerksamkeit zu dem Album.
+Es gibt mehrere Wege, das Album zu veröffentlichen. Zum Beispiel könnte ich einen sogenannten "Distributor" benutzen, um das Album auf alle Musikplatformen rauszubekommen. Einer dieser Distributor ist ein Service namens "Distrokid". Mit diesem könnte ich das fertige Album innerhalb von Tagen auf allen Plattformen fertig zum Anhören haben.
+Jedoch wird bei einem Distributor wie Distrokid der veröffentlichte Song nicht wirklich promoted (bewerbt). Dies führt zu wenigen Streams und wenig Aufmerksamkeit für das Album.
 
 Es gibt noch einen anderen Weg, das Album zu releasen, und zwar mit Labels.
-Man kann sein ganzes Album an ein Label schicken, und wenn diese das ganze Album aktzeptieren, veröffentlichen sie es.
+Man kann sein ganzes Album an ein Label schicken, und wenn dieses das ganze Album aktzeptiert, veröffentlichen sie es.
 
-Der Unterschied: das Label promoted (normalerweise) das Album und generiert so auch Streams. Dafür nimmt das Label ein bestimmten Prozenanteil der Gewinne des Songs, normalerweise 30-50% (kommt auf das Label an).
+Der Unterschied: Das Label promoted (normalerweise) das Album und generiert so auch Streams. Dafür nimmt das Label einen bestimmten Prozentsatz der Gewinne des Songs, normalerweise 30-50% (kommt auf das Label an).
 
 Bei einem Label ist auch das Problem, dass der Release oft in vielen Wochen oder sogar Monaten sein kann, denn der Künstler bestimmt dies oftmals nicht. Es ist auch nicht immer garantiert, dass das Label deine Songs überhaupt aktzeptiert. Manchmal lehnen Labels deine Songs auch komplett ab.
 Jedes Label variiert sich bei Sachen wie Promotion immer.
@@ -166,11 +154,11 @@ Beispiel für Brazilian Funk Songs, die ich persönlich sehr mag:
 
 
 
-Manche Vocals sind von Künstlern, die diesen Copyright gegeben haben. Das heißt, dass ich diese Vocals in einem Song zwar benutzen darf, aber nicht ohne die Erlaubnis von den eigentliche Sänger veröffentlichen kann.
+Manche Vocals sind von Künstlern, die diesen Copyright gegeben haben. Das heißt, dass ich diese Vocals in einem Song zwar benutzen darf, aber nicht ohne die Erlaubnis des eigentliche Sänger veröffentlichen kann.
 
-Aus diesen Grund nehme ich grundsätzlich nur sogennante "Copyright-free" Vocals, welche kein Copyirght enthalten, damit ich keine Probleme mit irgendwelchen Sängern bekomme.
+Aus diesem Grund nehme ich grundsätzlich nur sogennante "Copyright-free" Vocals, welche kein Copyright enthalten, damit ich keine Probleme mit irgendwelchen Sängern bekomme.
 
-Wenn ich jedoch entscheide, doch eine Vocal von einem Sänger zu benutzen der diese Copyright verliehen hat, kontaktiere ich diese Person und verhandele um einen kompromiss zu finden.
+Wenn ich jedoch entscheide, doch eine Vocal von einem Sänger zu benutzen, der diese Copyright verliehen hat, kontaktiere ich diese Person und verhandle um einen Kompromiss zu finden.
 
 
 
@@ -195,9 +183,9 @@ Ich habe dieses Cover zusammen mit einem Freund und mit der hilfe von KI zusamme
 
 
 
-Am besten ist es, Songs immer am Freitag zu veröffentlichen. Das liegt daran, dass der Algorithmus am Freitag die besten sogenannten "Algorithmischen Streams" gibt. Diese kommen jeden Freitag, und verstärken die Streams sehr, wodurch man generell eine bessere Leistung von dem Song (oder dem Album) bekommt.
+Am besten ist es, Songs immer am Freitag zu veröffentlichen. Das liegt daran, dass der Algorithmus am Freitag die besten sogenannten "algorithmischen Streams" gibt. Diese kommen jeden Freitag und verstärken die Streams sehr, wodurch man generell eine bessere Leistung von dem Song (oder dem Album) bekommt.
 
-Dieser Algorithmus funktioniert bei einzelnen Songs, sowie auch EPs und Alben. Aus diesem Grund werde ich auch mein Album an einem Freitag veröffentlichen, um die so viele Streams wie möglich von dem Algorithmus zu bekommen.
+Dieser Algorithmus funktioniert bei einzelnen Songs sowie auch EPs und Alben. Aus diesem Grund werde ich auch mein Album an einem Freitag veröffentlichen, um so viele Streams wie möglich von dem Algorithmus zu bekommen.
 
 
 
@@ -225,11 +213,11 @@ Der Distributor versendet das Album an all diese Plattformen gleichzeitig, und v
 
 
 
-Mein Ziel mit diesem Album war es, jeden Song relativ einzigartig und unterschiedlich von einander zu machen. Dies war einer der schwierigsten Punkte and dieser ganzen Sache, weil es sich als äußerst schwierig heraustellt, 10 Songs einzigartig von einander zu produzieren, aber immernoch in der gleichen Musickrichtung zu bleiben. Dieser einzige Punkt allein verlängert eine Songproduktion sehr, weswegen es bei mir auch mehrere Tage oder Wochen dauern kann, bis ich die einzelnen Songs einzigartig, aber immernoch in einer hohen Qualität hergestellt habe.
+Mein Ziel mit diesem Album war es, jeden Song relativ einzigartig und unterschiedlich voneinander zu machen. Dies war einer der schwierigsten Punkte an dieser ganzen Sache, weil es sich als äußerst schwierig herausstellt, 10 Songs einzigartig voneinander zu produzieren, aber immer noch in der gleichen Musikrichtung zu bleiben. Dieser einzige Punkt allein verlängert eine Songproduktion sehr, weswegen es bei mir auch mehrere Tage oder Wochen dauern kann, bis ich die einzelnen Songs einzigartig, aber immer noch in einer hohen Qualität hergestellt habe.
 
-Ein weiterer Punkt war es, die Songs richtig zu "mastern". Das heißt, den gesamten Song zu Mixen, Effekte erstellen und die Frequenzbereiche zu ändern. Mastering ansich ist sehr schwer, da man währen des Mixens jeden Aspekt des Songs mit einbeziehen muss, und gucken muss, dass nichts anfängt in deinen Augen schlechter zu klingen. Den Song gut zu mastern heißt, dass es für einen möglich ist, den kompletten Sound richtig verbessern zu können, denn das Mastering ist ein sehr wichtiger Aspekt in der Produktion eines Songs.
+Ein weiterer Punkt war es, die Songs richtig zu "mastern". Das heißt, den gesamten Song zu mixen, Effekte zu erstellen und die Frequenzbereiche zu ändern. Mastering an sich ist sehr schwer, da man während des Mixens jeden Aspekt des Songs mit einbeziehen muss und gucken muss, dass nichts anfängt, in deinen Augen schlechter zu klingen. Den Song gut zu mastern heißt, dass es für einen möglich ist, den kompletten Sound richtig verbessern zu können, denn das Mastering ist ein notwendiger Aspekt in der Produktion eines Songs.
 
-Ich persönlich habe es auch gut hingekriegt, die einzelnen Songs gut zu mastern und auch gut zu mixen. Das liegt auch vielleicht daran, dass ich mittlerweile fast 5 Jahre erfahrung in der Musikproduktion habe. Dazu veröffentliche ich fast jede Woche auf Spotify und anderen Plattformen viele Songs. Ich habe stand 22.05.2025 gerade 412.279 Monatliche Hörer und über 8 Millionen Streams auf allen Plattformen. mein Account heißt "Envacity".
+Ich persönlich habe es auch gut hingekriegt, die einzelnen Songs gut zu mastern und auch gut zu mixen. Das liegt vielleicht auch daran, dass ich mittlerweile fast 5 Jahre Erfahrung in der Musikproduktion habe. Dazu veröffentliche ich fast jede Woche auf Spotify und anderen Plattformen viele Songs. Ich habe stand 22.05.2025 gerade 412.279 monatliche Hörer und über 8 Millionen Streams auf allen Plattformen. Mein Account heißt "Envacity".
 
 
 
@@ -255,3 +243,14 @@ Das Plugin "Ozone 11" in dem "Imager" Tab, geladen in Fl Studio.
 /// caption
 Eine Melodie in einem "Piano Roll" (Tool um Melodien oder Sonstiges zu erstellen und verwalten).
 ///
+
+
+
+
+## Abschluss
+
+
+
+
+Selbst wenn man schon sehr viel Erfahrung hat wie ich, kann man trotzdem viele Schwierigkeiten bekommen beim Produzieren (vor allem, wenn man jeden Song so einzigartig macht wie ich). Natürlich bieten diese Schwierigkeiten auch eine gute Übung, da ich durch diese auch besser im Produzieren werde.
+Die Jahresarbeit hat mir Spaß gemacht, auch wenn ich hier und da mal Probleme hatte. Jeder Song hat sehr viele Stunden gebraucht, um fertig zu werden, und auch wenn die Musikrichtung eher "speziell" ist (sehr aggressiv), denke ich, dass ich gute Arbeit geleistet habe.

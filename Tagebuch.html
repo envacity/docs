@@ -1,0 +1,4627 @@
+
+<!doctype html>
+<html lang="de" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+        <link rel="canonical" href="http://127.0.0.1:8001/rcs/Tagebuch.html">
+      
+      
+        <link rel="prev" href="Dokumentation.html">
+      
+      
+      
+      <link rel="icon" href="assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.6.14">
+    
+    
+      
+        <title>Tagebuch - Album</title>
+      
+    
+    
+      <link rel="stylesheet" href="assets/stylesheets/main.342714a4.min.css">
+      
+        
+        <link rel="stylesheet" href="assets/stylesheets/palette.06af60db.min.css">
+      
+      
+
+
+    
+    
+      
+        <script src="https://unpkg.com/iframe-worker/shim"></script>
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+    <script>__md_scope=new URL(".",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+    
+  </head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="slate" data-md-color-primary="blue" data-md-color-accent="indigo">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#tagebuch" class="md-skip">
+          Zum Inhalt
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Kopfzeile">
+    <a href="index.html" title="Album" class="md-header__button md-logo" aria-label="Album" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Album
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Tagebuch
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+        <form class="md-header__option" data-md-component="palette">
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="(prefers-color-scheme: dark)" data-md-color-scheme="slate" data-md-color-primary="blue" data-md-color-accent="indigo"  aria-label="Switch to light mode"  type="radio" name="__palette" id="__palette_0">
+    
+      <label class="md-header__button md-icon" title="Switch to light mode" for="__palette_1" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m17.75 4.09-2.53 1.94.91 3.06-2.63-1.81-2.63 1.81.91-3.06-2.53-1.94L12.44 4l1.06-3 1.06 3zm3.5 6.91-1.64 1.25.59 1.98-1.7-1.17-1.7 1.17.59-1.98L15.75 11l2.06-.05L18.5 9l.69 1.95zm-2.28 4.95c.83-.08 1.72 1.1 1.19 1.85-.32.45-.66.87-1.08 1.27C15.17 23 8.84 23 4.94 19.07c-3.91-3.9-3.91-10.24 0-14.14.4-.4.82-.76 1.27-1.08.75-.53 1.93.36 1.85 1.19-.27 2.86.69 5.83 2.89 8.02a9.96 9.96 0 0 0 8.02 2.89m-1.64 2.02a12.08 12.08 0 0 1-7.8-3.47c-2.17-2.19-3.33-5-3.49-7.82-2.81 3.14-2.7 7.96.31 10.98 3.02 3.01 7.84 3.12 10.98.31"/></svg>
+      </label>
+    
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="(prefers-color-scheme: light)" data-md-color-scheme="default" data-md-color-primary="blue" data-md-color-accent="indigo"  aria-label="Switch to dark mode"  type="radio" name="__palette" id="__palette_1">
+    
+      <label class="md-header__button md-icon" title="Switch to dark mode" for="__palette_0" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 7a5 5 0 0 1 5 5 5 5 0 0 1-5 5 5 5 0 0 1-5-5 5 5 0 0 1 5-5m0 2a3 3 0 0 0-3 3 3 3 0 0 0 3 3 3 3 0 0 0 3-3 3 3 0 0 0-3-3m0-7 2.39 3.42C13.65 5.15 12.84 5 12 5s-1.65.15-2.39.42zM3.34 7l4.16-.35A7.2 7.2 0 0 0 5.94 8.5c-.44.74-.69 1.5-.83 2.29zm.02 10 1.76-3.77a7.131 7.131 0 0 0 2.38 4.14zM20.65 7l-1.77 3.79a7.02 7.02 0 0 0-2.38-4.15zm-.01 10-4.14.36c.59-.51 1.12-1.14 1.54-1.86.42-.73.69-1.5.83-2.29zM12 22l-2.41-3.44c.74.27 1.55.44 2.41.44.82 0 1.63-.17 2.37-.44z"/></svg>
+      </label>
+    
+  
+</form>
+      
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&palette.color){if("(prefers-color-scheme)"===palette.color.media){var media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']");palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent")}for(var[key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+      
+      
+        <label class="md-header__button md-icon" for="__search">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        </label>
+        <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Suche" placeholder="Suche" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Suche">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Zurücksetzen" aria-label="Zurücksetzen" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>
+        </button>
+      </nav>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Suche wird initialisiert
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+      
+    
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="index.html" title="Album" class="md-nav__button md-logo" aria-label="Album" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+
+    </a>
+    Album
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="index.html" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Startseite
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="Dokumentation.html" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Dokumentation
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+    
+  
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  
+  <span class="md-ellipsis">
+    Tagebuch
+    
+  </span>
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="Tagebuch.html" class="md-nav__link md-nav__link--active">
+        
+  
+  
+  <span class="md-ellipsis">
+    Tagebuch
+    
+  </span>
+  
+
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Inhaltsverzeichnis">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Inhaltsverzeichnis
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#tag-1-21082024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 1 - 21.08.2024
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-2-22082024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 2 - 22.08.2024
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-3-23082024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 3 - 23.08.2024
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-4-24082024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 4 - 24.08.2024
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-5-25082024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 5 - 25.08.2024
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-6-26082024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 6 - 26.08.2024
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-7-27082024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 7 - 27.08.2024
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-8-28082024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 8 - 28.08.2024
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-9-29082024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 9 - 29.08.2024
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-10-30082024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 10 - 30.08.2024
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-11-31082024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 11 - 31.08.2024
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-12-01092024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 12 - 01.09.2024
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-13-02092024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 13 - 02.09.2024
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-14-03092024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 14 - 03.09.2024
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-15-04092024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 15 - 04.09.2024
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-16-05092024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 16 - 05.09.2024
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-17-06092024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 17 - 06.09.2024
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-18-07092024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 18 - 07.09.2024
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-19-08092024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 19 - 08.09.2024
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-20-09092024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 20 - 09.09.2024
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-21-10092024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 21 - 10.09.2024
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-22-11092024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 22 - 11.09.2024
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-23-12092024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 23 - 12.09.2024
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-24-13092024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 24 - 13.09.2024
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-25-14092024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 25 - 14.09.2024
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-26-15092024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 26 - 15.09.2024
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-2734-160924230924" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 27–34, 16.09.24–23.09.24:
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-35-24092024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 35 - 24.09.2024
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-36-25092024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 36 - 25.09.2024
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-37-26092024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 37 - 26.09.2024
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-38-27092024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 38 - 27.09.2024
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-39-28092024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 39 - 28.09.2024
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-40-29092024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 40 - 29.09.2024
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-41-30092024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 41 - 30.09.2024
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-42-01102024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 42 - 01.10.2024
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-43-02102024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 43 - 02.10.2024
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-44-03102024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 44 - 03.10.2024
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-45-04102024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 45 - 04.10.2024
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-46-05102024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 46 - 05.10.2024
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-47-06102024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 47 - 06.10.2024
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-48-07102024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 48 - 07.10.2024
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-49-08102024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 49 - 08.10.2024
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-50-52-091024-111024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 50-52, 09.10.24-11.10.24:
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-53-12102024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 53 - 12.10.2024
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-54-13102024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 54 - 13.10.2024
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-55-14102024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 55 - 14.10.2024
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-56-15102024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 56 - 15.10.2024
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-57-16102024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 57 - 16.10.2024
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-58-17102024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 58 - 17.10.2024
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-59-18102024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 59 - 18.10.2024
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-60-63-191024221024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 60-63, 19.10.24–22.10.24:
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-64-23102024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 64 - 23.10.2024
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-65-24102024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 65 - 24.10.2024
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-66-25102024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 66 - 25.10.2024
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-67-26102024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 67 - 26.10.2024
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-68-27102024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 68 - 27.10.2024
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-69-28102024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 69 - 28.10.2024
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-70-29102024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 70 - 29.10.2024
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-71-30102024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 71 - 30.10.2024
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-72-31102024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 72 - 31.10.2024
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-73-01112024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 73 - 01.11.2024
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-74-02112024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 74 - 02.11.2024
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-75-03112024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 75 - 03.11.2024
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-76-04112024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 76 - 04.11.2024
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-77-05112024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 77 - 05.11.2024
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-78-06112024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 78 - 06.11.2024
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-79-07112024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 79 - 07.11.2024
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-80-88-081124-161124" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 80-88, 08.11.24-16.11.24:
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-89-17112024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 89 - 17.11.2024
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-90-18112024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 90 - 18.11.2024
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-91-19112024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 91 - 19.11.2024
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-92-20112024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 92 - 20.11.2024
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-93-21112024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 93 - 21.11.2024
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-94-22112024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 94 - 22.11.2024
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-95-23112024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 95 - 23.11.2024
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-96-24112024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 96 - 24.11.2024
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-97-25112024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 97 - 25.11.2024
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-98-26112024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 98 - 26.11.2024
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-99-27112024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 99 - 27.11.2024
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-100-28112024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 100 - 28.11.2024
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-101-29112024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 101 - 29.11.2024
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-102-30112024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 102 - 30.11.2024
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-103-110-011224-081224" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 103-110, 01.12.24-08.12.24:
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-111-09122024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 111 - 09.12.2024
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-112-10122024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 112 - 10.12.2024
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-113-11122024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 113 - 11.12.2024
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-114-12122024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 114 - 12.12.2024
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-115-13122024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 115 - 13.12.2024
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-116-14122024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 116 - 14.12.2024
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-117-15122024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 117 - 15.12.2024
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-118-16122024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 118 - 16.12.2024
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-119-17122024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 119 - 17.12.2024
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-120-18122024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 120 - 18.12.2024
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-121-19122024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 121 - 19.12.2024
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-122-20122024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 122 - 20.12.2024
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-123-21122024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 123 - 21.12.2024
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-124-22122024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 124 - 22.12.2024
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-125-23122024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 125 - 23.12.2024
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-126-24122024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 126 - 24.12.2024
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-127-25122024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 127 - 25.12.2024
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-128-26122024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 128 - 26.12.2024
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-129-27122024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 129 - 27.12.2024
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-130-28122024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 130 - 28.12.2024
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-131-29122024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 131 - 29.12.2024
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-132-30122024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 132 - 30.12.2024
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-133-140-311224-070125" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 133-140, 31.12.24-07.01.25:
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-141-08012025" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 141 - 08.01.2025
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-142-09012025" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 142 - 09.01.2025
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-143-10012025" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 143 - 10.01.2025
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-144-11012025" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 144 - 11.01.2025
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-145-12012025" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 145 - 12.01.2025
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-146-13012025" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 146 - 13.01.2025
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-147-14012025" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 147 - 14.01.2025
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-148-15012025" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 148 - 15.01.2025
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-149-16012025" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 149 - 16.01.2025
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-150-17012025" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 150 - 17.01.2025
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-151-18012025" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 151 - 18.01.2025
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-152-19012025" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 152 - 19.01.2025
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-153-20012025" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 153 - 20.01.2025
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-154-21012025" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 154 - 21.01.2025
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-155-22012025" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 155 - 22.01.2025
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-156-23012025" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 156 - 23.01.2025
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-157-24012025" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 157 - 24.01.2025
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-158-25012025" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 158 - 25.01.2025
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-159-26012025" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 159 - 26.01.2025
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-160-27012025" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 160 - 27.01.2025
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-161-28012025" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 161 - 28.01.2025
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-162-29012025" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 162 - 29.01.2025
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-163-30012025" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 163 - 30.01.2025
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-164-31012025" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 164 - 31.01.2025
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-165-01022025" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 165 - 01.02.2025
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-166-02022025" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 166 - 02.02.2025
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-167-03022025" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 167 - 03.02.2025
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-168-04022025" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 168 - 04.02.2025
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-169-05022025" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 169 - 05.02.2025
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-170-174-060225-100225" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 170-174, 06.02.25-10.02.25:
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-175-11022025" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 175 - 11.02.2025
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-176-12022025" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 176 - 12.02.2025
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-177-13022025" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 177 - 13.02.2025
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-178-14022025" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 178 - 14.02.2025
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-179-15022025" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 179 - 15.02.2025
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-180-16022025" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 180 - 16.02.2025
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-181-187-17022025-23022025" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 181-187 - 17.02.2025-23.02.2025
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-188-24022025" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 188 - 24.02.2025
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-189-204-25022025-12032025" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 189-204 - 25.02.2025-12.03.2025
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-205-13032025" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 205 - 13.03.2025
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-206-14032025" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 206 - 14.03.2025
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-207-15032025" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 207 - 15.03.2025
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-208-16032025" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 208 - 16.03.2025
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-209-17032025" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 209 - 17.03.2025
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-210-18032025" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 210 - 18.03.2025
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-211-19032025" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 211 - 19.03.2025
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-212-20032025" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 212 - 20.03.2025
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-213-21032025" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 213 - 21.03.2025
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-214-22032025" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 214 - 22.03.2025
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-215-23032025" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 215 - 23.03.2025
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-216-24032025" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 216 - 24.03.2025
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-217-25032025" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 217 - 25.03.2025
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-218-26032025" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 218 - 26.03.2025
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-219-27032025" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 219 - 27.03.2025
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-220-28032025" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 220 - 28.03.2025
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-221-29032025" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 221 - 29.03.2025
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-222-30032025" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 222 - 30.03.2025
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-223-31032025" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 223 - 31.03.2025
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-224-01042025" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 224 - 01.04.2025
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-225-02042025" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 225 - 02.04.2025
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-226-03042025" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 226 - 03.04.2025
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-227-04042025" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 227 - 04.04.2025
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-228-05042025" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 228 - 05.04.2025
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-229-06042025" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 229 - 06.04.2025
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-230-07042025" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 230 - 07.04.2025
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-231-08042025" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 231 - 08.04.2025
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-232-239-09042025-16042025" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 232-239 - 09.04.2025-16.04.2025
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-240-17042025" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 240 - 17.04.2025
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-241-18042025" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 241 - 18.04.2025
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-242-19042025" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 242 - 19.04.2025
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-243-20042025" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 243 - 20.04.2025
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-244-21042025" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 244 - 21.04.2025
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-245-22042025" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 245 - 22.04.2025
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-246-23042025" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 246 - 23.04.2025
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-247-24042025" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 247 - 24.04.2025
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-248-25042025" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 248 - 25.04.2025
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-249-26042025" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 249 - 26.04.2025
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-250-27042025" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 250 - 27.04.2025
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-251-28042025" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 251 - 28.04.2025
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-252-29042025" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 252 - 29.04.2025
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-253-30042025" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 253 - 30.04.2025
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-254-01052025" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 254 - 01.05.2025
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-255-02052025" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 255 - 02.05.2025
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-256-03052025" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 256 - 03.05.2025
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-257-04052025" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 257 - 04.05.2025
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-258-05052025" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 258 - 05.05.2025
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-259-06052025" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 259 - 06.05.2025
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-260-07052025" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 260 - 07.05.2025
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-261-08052025" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 261 - 08.05.2025
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-262-09052025" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 262 - 09.05.2025
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-263-10052025" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 263 - 10.05.2025
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-264-11052025" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 264 - 11.05.2025
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-265-12052025" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 265 - 12.05.2025
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-266-13052025" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 266 - 13.05.2025
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-267-14052025" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 267 - 14.05.2025
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-268-15052025" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 268 - 15.05.2025
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-269-16052025" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 269 - 16.05.2025
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-270-17052025" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 270 - 17.05.2025
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-271-18052025" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 271 - 18.05.2025
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-272-19052025" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 272 - 19.05.2025
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-273-20052025" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 273 - 20.05.2025
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-274-21052025" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 274 - 21.05.2025
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-275-22052025" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 275 - 22.05.2025
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Inhaltsverzeichnis">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Inhaltsverzeichnis
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#tag-1-21082024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 1 - 21.08.2024
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-2-22082024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 2 - 22.08.2024
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-3-23082024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 3 - 23.08.2024
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-4-24082024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 4 - 24.08.2024
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-5-25082024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 5 - 25.08.2024
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-6-26082024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 6 - 26.08.2024
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-7-27082024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 7 - 27.08.2024
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-8-28082024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 8 - 28.08.2024
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-9-29082024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 9 - 29.08.2024
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-10-30082024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 10 - 30.08.2024
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-11-31082024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 11 - 31.08.2024
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-12-01092024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 12 - 01.09.2024
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-13-02092024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 13 - 02.09.2024
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-14-03092024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 14 - 03.09.2024
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-15-04092024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 15 - 04.09.2024
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-16-05092024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 16 - 05.09.2024
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-17-06092024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 17 - 06.09.2024
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-18-07092024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 18 - 07.09.2024
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-19-08092024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 19 - 08.09.2024
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-20-09092024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 20 - 09.09.2024
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-21-10092024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 21 - 10.09.2024
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-22-11092024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 22 - 11.09.2024
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-23-12092024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 23 - 12.09.2024
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-24-13092024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 24 - 13.09.2024
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-25-14092024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 25 - 14.09.2024
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-26-15092024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 26 - 15.09.2024
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-2734-160924230924" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 27–34, 16.09.24–23.09.24:
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-35-24092024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 35 - 24.09.2024
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-36-25092024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 36 - 25.09.2024
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-37-26092024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 37 - 26.09.2024
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-38-27092024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 38 - 27.09.2024
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-39-28092024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 39 - 28.09.2024
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-40-29092024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 40 - 29.09.2024
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-41-30092024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 41 - 30.09.2024
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-42-01102024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 42 - 01.10.2024
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-43-02102024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 43 - 02.10.2024
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-44-03102024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 44 - 03.10.2024
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-45-04102024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 45 - 04.10.2024
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-46-05102024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 46 - 05.10.2024
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-47-06102024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 47 - 06.10.2024
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-48-07102024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 48 - 07.10.2024
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-49-08102024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 49 - 08.10.2024
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-50-52-091024-111024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 50-52, 09.10.24-11.10.24:
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-53-12102024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 53 - 12.10.2024
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-54-13102024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 54 - 13.10.2024
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-55-14102024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 55 - 14.10.2024
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-56-15102024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 56 - 15.10.2024
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-57-16102024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 57 - 16.10.2024
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-58-17102024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 58 - 17.10.2024
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-59-18102024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 59 - 18.10.2024
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-60-63-191024221024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 60-63, 19.10.24–22.10.24:
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-64-23102024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 64 - 23.10.2024
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-65-24102024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 65 - 24.10.2024
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-66-25102024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 66 - 25.10.2024
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-67-26102024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 67 - 26.10.2024
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-68-27102024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 68 - 27.10.2024
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-69-28102024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 69 - 28.10.2024
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-70-29102024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 70 - 29.10.2024
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-71-30102024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 71 - 30.10.2024
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-72-31102024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 72 - 31.10.2024
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-73-01112024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 73 - 01.11.2024
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-74-02112024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 74 - 02.11.2024
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-75-03112024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 75 - 03.11.2024
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-76-04112024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 76 - 04.11.2024
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-77-05112024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 77 - 05.11.2024
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-78-06112024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 78 - 06.11.2024
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-79-07112024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 79 - 07.11.2024
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-80-88-081124-161124" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 80-88, 08.11.24-16.11.24:
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-89-17112024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 89 - 17.11.2024
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-90-18112024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 90 - 18.11.2024
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-91-19112024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 91 - 19.11.2024
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-92-20112024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 92 - 20.11.2024
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-93-21112024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 93 - 21.11.2024
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-94-22112024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 94 - 22.11.2024
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-95-23112024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 95 - 23.11.2024
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-96-24112024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 96 - 24.11.2024
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-97-25112024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 97 - 25.11.2024
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-98-26112024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 98 - 26.11.2024
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-99-27112024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 99 - 27.11.2024
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-100-28112024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 100 - 28.11.2024
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-101-29112024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 101 - 29.11.2024
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-102-30112024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 102 - 30.11.2024
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-103-110-011224-081224" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 103-110, 01.12.24-08.12.24:
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-111-09122024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 111 - 09.12.2024
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-112-10122024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 112 - 10.12.2024
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-113-11122024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 113 - 11.12.2024
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-114-12122024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 114 - 12.12.2024
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-115-13122024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 115 - 13.12.2024
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-116-14122024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 116 - 14.12.2024
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-117-15122024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 117 - 15.12.2024
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-118-16122024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 118 - 16.12.2024
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-119-17122024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 119 - 17.12.2024
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-120-18122024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 120 - 18.12.2024
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-121-19122024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 121 - 19.12.2024
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-122-20122024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 122 - 20.12.2024
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-123-21122024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 123 - 21.12.2024
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-124-22122024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 124 - 22.12.2024
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-125-23122024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 125 - 23.12.2024
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-126-24122024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 126 - 24.12.2024
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-127-25122024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 127 - 25.12.2024
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-128-26122024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 128 - 26.12.2024
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-129-27122024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 129 - 27.12.2024
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-130-28122024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 130 - 28.12.2024
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-131-29122024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 131 - 29.12.2024
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-132-30122024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 132 - 30.12.2024
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-133-140-311224-070125" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 133-140, 31.12.24-07.01.25:
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-141-08012025" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 141 - 08.01.2025
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-142-09012025" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 142 - 09.01.2025
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-143-10012025" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 143 - 10.01.2025
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-144-11012025" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 144 - 11.01.2025
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-145-12012025" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 145 - 12.01.2025
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-146-13012025" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 146 - 13.01.2025
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-147-14012025" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 147 - 14.01.2025
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-148-15012025" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 148 - 15.01.2025
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-149-16012025" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 149 - 16.01.2025
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-150-17012025" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 150 - 17.01.2025
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-151-18012025" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 151 - 18.01.2025
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-152-19012025" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 152 - 19.01.2025
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-153-20012025" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 153 - 20.01.2025
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-154-21012025" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 154 - 21.01.2025
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-155-22012025" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 155 - 22.01.2025
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-156-23012025" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 156 - 23.01.2025
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-157-24012025" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 157 - 24.01.2025
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-158-25012025" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 158 - 25.01.2025
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-159-26012025" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 159 - 26.01.2025
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-160-27012025" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 160 - 27.01.2025
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-161-28012025" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 161 - 28.01.2025
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-162-29012025" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 162 - 29.01.2025
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-163-30012025" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 163 - 30.01.2025
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-164-31012025" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 164 - 31.01.2025
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-165-01022025" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 165 - 01.02.2025
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-166-02022025" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 166 - 02.02.2025
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-167-03022025" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 167 - 03.02.2025
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-168-04022025" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 168 - 04.02.2025
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-169-05022025" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 169 - 05.02.2025
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-170-174-060225-100225" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 170-174, 06.02.25-10.02.25:
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-175-11022025" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 175 - 11.02.2025
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-176-12022025" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 176 - 12.02.2025
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-177-13022025" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 177 - 13.02.2025
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-178-14022025" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 178 - 14.02.2025
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-179-15022025" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 179 - 15.02.2025
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-180-16022025" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 180 - 16.02.2025
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-181-187-17022025-23022025" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 181-187 - 17.02.2025-23.02.2025
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-188-24022025" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 188 - 24.02.2025
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-189-204-25022025-12032025" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 189-204 - 25.02.2025-12.03.2025
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-205-13032025" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 205 - 13.03.2025
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-206-14032025" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 206 - 14.03.2025
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-207-15032025" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 207 - 15.03.2025
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-208-16032025" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 208 - 16.03.2025
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-209-17032025" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 209 - 17.03.2025
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-210-18032025" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 210 - 18.03.2025
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-211-19032025" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 211 - 19.03.2025
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-212-20032025" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 212 - 20.03.2025
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-213-21032025" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 213 - 21.03.2025
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-214-22032025" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 214 - 22.03.2025
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-215-23032025" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 215 - 23.03.2025
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-216-24032025" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 216 - 24.03.2025
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-217-25032025" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 217 - 25.03.2025
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-218-26032025" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 218 - 26.03.2025
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-219-27032025" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 219 - 27.03.2025
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-220-28032025" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 220 - 28.03.2025
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-221-29032025" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 221 - 29.03.2025
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-222-30032025" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 222 - 30.03.2025
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-223-31032025" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 223 - 31.03.2025
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-224-01042025" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 224 - 01.04.2025
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-225-02042025" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 225 - 02.04.2025
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-226-03042025" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 226 - 03.04.2025
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-227-04042025" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 227 - 04.04.2025
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-228-05042025" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 228 - 05.04.2025
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-229-06042025" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 229 - 06.04.2025
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-230-07042025" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 230 - 07.04.2025
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-231-08042025" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 231 - 08.04.2025
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-232-239-09042025-16042025" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 232-239 - 09.04.2025-16.04.2025
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-240-17042025" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 240 - 17.04.2025
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-241-18042025" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 241 - 18.04.2025
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-242-19042025" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 242 - 19.04.2025
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-243-20042025" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 243 - 20.04.2025
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-244-21042025" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 244 - 21.04.2025
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-245-22042025" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 245 - 22.04.2025
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-246-23042025" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 246 - 23.04.2025
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-247-24042025" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 247 - 24.04.2025
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-248-25042025" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 248 - 25.04.2025
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-249-26042025" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 249 - 26.04.2025
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-250-27042025" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 250 - 27.04.2025
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-251-28042025" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 251 - 28.04.2025
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-252-29042025" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 252 - 29.04.2025
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-253-30042025" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 253 - 30.04.2025
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-254-01052025" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 254 - 01.05.2025
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-255-02052025" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 255 - 02.05.2025
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-256-03052025" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 256 - 03.05.2025
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-257-04052025" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 257 - 04.05.2025
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-258-05052025" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 258 - 05.05.2025
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-259-06052025" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 259 - 06.05.2025
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-260-07052025" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 260 - 07.05.2025
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-261-08052025" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 261 - 08.05.2025
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-262-09052025" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 262 - 09.05.2025
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-263-10052025" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 263 - 10.05.2025
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-264-11052025" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 264 - 11.05.2025
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-265-12052025" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 265 - 12.05.2025
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-266-13052025" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 266 - 13.05.2025
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-267-14052025" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 267 - 14.05.2025
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-268-15052025" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 268 - 15.05.2025
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-269-16052025" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 269 - 16.05.2025
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-270-17052025" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 270 - 17.05.2025
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-271-18052025" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 271 - 18.05.2025
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-272-19052025" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 272 - 19.05.2025
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-273-20052025" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 273 - 20.05.2025
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-274-21052025" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 274 - 21.05.2025
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tag-275-22052025" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tag 275 - 22.05.2025
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+
+<h1 id="tagebuch">Tagebuch</h1>
+<p>Hier ist das Tagebuch von meiner Jahresarbeit.</p>
+<h2 id="tag-1-21082024">Tag 1 - 21.08.2024</h2>
+<p>Ich habe angefangen mit dem ersten Song und an der Melodie gearbeitet.</p>
+<h2 id="tag-2-22082024">Tag 2 - 22.08.2024</h2>
+<p>Ich habe die Drums angefangen und die Melodie gemixt und etwas gemastert.</p>
+<h2 id="tag-3-23082024">Tag 3 - 23.08.2024</h2>
+<p>Ich habe die Melodie erneuert, da sie nicht so gut war (zu viele Wiederholungen, Soundclashing etc.) und die Drums schon halb gemixt hatte.</p>
+<h2 id="tag-4-24082024">Tag 4 - 24.08.2024</h2>
+<p>Ich habe den ersten Drop und Build-up sowie Intro hinzugefügt. Der Song soll sehr viel Energie haben, deswegen habe ich ein hohes Tempo genommen.</p>
+<h2 id="tag-5-25082024">Tag 5 - 25.08.2024</h2>
+<p>Der erste Drop ist nun komplett fertig und der Master ist auch fertig. Ich habe bei dem Master einen Soft Clipper für Clipping sowie High-End- und Saturation-Plugins hinzugefügt.</p>
+<h2 id="tag-6-26082024">Tag 6 - 26.08.2024</h2>
+<p>Ich habe schon den zweiten Drop angefangen und ein paar SFX hinzugefügt (und auch schon gemixt).</p>
+<h2 id="tag-7-27082024">Tag 7 - 27.08.2024</h2>
+<p>Ich habe den zweiten Drop fertig gemacht und Effekte sowie Vocals hinzugefügt. Ich habe mir auch schon den Namen des Albums überlegt. Es sollte so etwas „NOX“ oder „HYPERCLASH“ heißen und irgendwie aggressive klingen.</p>
+<h2 id="tag-8-28082024">Tag 8 - 28.08.2024</h2>
+<p>Ich erneuerte die Melodie nochmal, da sie für mich immer noch nicht gepasst hat. Außerdem habe ich schon den Mix komplett fertig.</p>
+<h2 id="tag-9-29082024">Tag 9 - 29.08.2024</h2>
+<p>Ich habe an dem zweiten Song schon etwas angefangen (habe probiert, eine Melodie zu machen, hat leider nicht so gut geklappt).</p>
+<h2 id="tag-10-30082024">Tag 10 - 30.08.2024</h2>
+<p>Ich habe die Melodie für den zweiten Song erstellt und schon etwas gemixt.</p>
+<h2 id="tag-11-31082024">Tag 11 - 31.08.2024</h2>
+<p>Ich habe den zweiten Drop für den ersten Song erneuert (SFX geändert und Build-Up hinzugefügt).</p>
+<h2 id="tag-12-01092024">Tag 12 - 01.09.2024</h2>
+<p>Ich habe ein Outro hinzugefügt und die Fade-Out-Zeiten verändert (kürzere Fade-Kurve).</p>
+<h2 id="tag-13-02092024">Tag 13 - 02.09.2024</h2>
+<p>Der erste Song ist so weit fertig. Es fehlt noch etwas Mastering sowie Finetuning, aber das werde ich später hinzufügen.</p>
+<h2 id="tag-14-03092024">Tag 14 - 03.09.2024</h2>
+<p>Heute habe ich leider nichts geschafft, da ich es vergessen habe (Ups).</p>
+<h2 id="tag-15-04092024">Tag 15 - 04.09.2024</h2>
+<p>Ich habe den zweiten Song fürs Erste gelöscht, da er na ja nicht so gut war (ich werde ihn neu machen).</p>
+<h2 id="tag-16-05092024">Tag 16 - 05.09.2024</h2>
+<p>Ich habe an der Melodie für den zweiten Song angefangen zu arbeiten (es ist schwer).</p>
+<h2 id="tag-17-06092024">Tag 17 - 06.09.2024</h2>
+<p>An der Hauptmelodie habe ich heute weiter gearbeitet. Es sollte ein sehr schnelles Tempo haben (vielleicht 130 BPM?).</p>
+<h2 id="tag-18-07092024">Tag 18 - 07.09.2024</h2>
+<p>Ich habe meinen ersten Song „FUNK DO RAVE“ genannt. Ich denke, der Name passt, da die Musik Richtung „Brazilian Funk“ heißt und es auch zum Song passt.</p>
+<h2 id="tag-19-08092024">Tag 19 - 08.09.2024</h2>
+<p>Ich habe die Slowed-Down-Version für FUNK DO RAVE erstellt (das heißt, der ganze Song ist etwas langsamer und runtergepitched).</p>
+<h2 id="tag-20-09092024">Tag 20 - 09.09.2024</h2>
+<p>Ich habe die Sped-up-Version für FUNK DO RAVE erstellt (das heißt, der ganze Song ist etwas schneller und höher gepitched).</p>
+<h2 id="tag-21-10092024">Tag 21 - 10.09.2024</h2>
+<p>Die Melodie für den zweiten Song ist jetzt endlich fertig.</p>
+<h2 id="tag-22-11092024">Tag 22 - 11.09.2024</h2>
+<p>Ich habe schon mal die Drums angefangen für den zweiten Song (es wird eine Weile dauern, bis sie fertig sind).</p>
+<h2 id="tag-23-12092024">Tag 23 - 12.09.2024</h2>
+<p>Ich habe weiter an den Drums gearbeitet von dem zweiten Song.</p>
+<h2 id="tag-24-13092024">Tag 24 - 13.09.2024</h2>
+<p>Ich habe den finalen Master bei FUNK DO RAVE gemacht. Ich habe Ozone 11 Stabilizing (gegen Frequency Peaking), High-End Clarity und Low-End Focus hinzugefügt.</p>
+<h2 id="tag-25-14092024">Tag 25 - 14.09.2024</h2>
+<p>Ich habe an dem finalen Master weitergearbeitet. Ich habe noch Middle-End-Stereolization (Stereo im Middle-End) hinzugefügt und den Low-End etwas monorisiert (Mono im Low-End).</p>
+<h2 id="tag-26-15092024">Tag 26 - 15.09.2024</h2>
+<p>Ich habe noch etwas mit dem Arrangement der individuellen Elemente von FUNK DO RAVE herumgespielt, um vielleicht ein besseres Klangerlebnis zu bekommen.</p>
+<h2 id="tag-2734-160924230924">Tag 27–34, 16.09.24–23.09.24:</h2>
+<p>Heute war ich leider krank, weswegen ich nicht an dem Projekt gearbeitet habe.</p>
+<h2 id="tag-35-24092024">Tag 35 - 24.09.2024</h2>
+<p>Ich habe probiert, die Melodie des zweiten Songs zu verbessern (mehr Variation).</p>
+<h2 id="tag-36-25092024">Tag 36 - 25.09.2024</h2>
+<p>Ich arbeitete weiter an der zweiten Melodie und habe schon mal einen Layer hinzugefügt (ein zweites Instrument, das gleichzeitig mit den ersten spielt).</p>
+<h2 id="tag-37-26092024">Tag 37 - 26.09.2024</h2>
+<p>Die Melodie des ersten Layers habe ich heute fertig gemacht, jetzt arbeite ich weiter an dem zweiten Layer.</p>
+<h2 id="tag-38-27092024">Tag 38 - 27.09.2024</h2>
+<p>Ich arbeitete an dem zweiten Layer.</p>
+<h2 id="tag-39-28092024">Tag 39 - 28.09.2024</h2>
+<p>Ich änderte den Pitch des zweiten Layers um +50 Cents, um den genau gleichen Key wie für den ersten Layer zu bekommen. Dazu änderte ich die MIDI etwas, um eine bessere Notenvariation zu bekommen.</p>
+<h2 id="tag-40-29092024">Tag 40 - 29.09.2024</h2>
+<p>Ich fügte einen dritten Layer hinzu und fügte das MIDI von dem zweiten Layer rein. Ich änderte hier den Pitch auch um +50 Cents.</p>
+<h2 id="tag-41-30092024">Tag 41 - 30.09.2024</h2>
+<p>Heute habe ich vergessen, an dem Projekt zu arbeiten.</p>
+<h2 id="tag-42-01102024">Tag 42 - 01.10.2024</h2>
+<p>An der nun (fast) fertigen Melodie änderte ich stark den Mix. Ich habe in einem EQ den Low-End entfernt, den High-End verstärkt und den Mid-End auch leicht verstärkt.</p>
+<h2 id="tag-43-02102024">Tag 43 - 02.10.2024</h2>
+<p>Ich legte die Melodie nun in Abschnitten in das Arrangement (die Reihenfolge, wie was und wann etwas abgespielt wird).</p>
+<h2 id="tag-44-03102024">Tag 44 - 03.10.2024</h2>
+<p>Ich erstellte eine erste Idee für eine Melodievariation, um etwas frische Luft in den Song zu bringen.</p>
+<h2 id="tag-45-04102024">Tag 45 - 04.10.2024</h2>
+<p>Ich habe vergessen, an dem Projekt zu arbeiten.</p>
+<h2 id="tag-46-05102024">Tag 46 - 05.10.2024</h2>
+<p>Ich änderte nochmal kurz das MIDI der ersten Melodien und der Layer. Dann änderte ich dazu den Mix der Melodie (noch mehr High-End).</p>
+<h2 id="tag-47-06102024">Tag 47 - 06.10.2024</h2>
+<p>Ich fügte einen starken Kick hinzu, den ich dann direkt layerte und in das Arrangement brachte.</p>
+<h2 id="tag-48-07102024">Tag 48 - 07.10.2024</h2>
+<p>Ich fügte ein paar Percs hinzu und mixte sie. Ich entfernte das komplette Low-End und fügte eine Sidechain in Kombination mit dem Kick hinzu.</p>
+<h2 id="tag-49-08102024">Tag 49 - 08.10.2024</h2>
+<p>Ich habe die Kick mit der Melodie auch gesidechaint, um die Kick in den Vordergrund zu bringen, wenn sie spielt.</p>
+<h2 id="tag-50-52-091024-111024">Tag 50-52, 09.10.24-11.10.24:</h2>
+<p>Ich versuchte, eine Counter-Melodie hinzuzufügen. Ich bin komplett gescheitert.</p>
+<h2 id="tag-53-12102024">Tag 53 - 12.10.2024</h2>
+<p>Ich habe einen Bass sowie die Sidechain vom Kick zum Bass hinzugefügt.</p>
+<h2 id="tag-54-13102024">Tag 54 - 13.10.2024</h2>
+<p>Der Bass war komplett Off-Key, weswegen ich ihn komplett ändern musste.</p>
+<h2 id="tag-55-14102024">Tag 55 - 14.10.2024</h2>
+<p>Ich fügte eine Vocal hinzu, jedoch bin ich mir unsicher, ob ich diese behalten sollte (der Sänger will nicht, dass man seine Vocals einfach so benutzt).</p>
+<h2 id="tag-56-15102024">Tag 56 - 15.10.2024</h2>
+<p>Ich erneuerte das Kick Pattern und fügte einen Kick Layer mit etwas mehr High-End hinzu.</p>
+<h2 id="tag-57-16102024">Tag 57 - 16.10.2024</h2>
+<p>Eigentlich wollte ich ein Ambient Pad hinzufügen, damit es nicht so leer klingt, aber das Pad war komplett off-key und ich konnte es irgendwie nicht wieder in Key bekommen. Deswegen habe ich einen Bass-Drop hinzugefügt.</p>
+<h2 id="tag-58-17102024">Tag 58 - 17.10.2024</h2>
+<p>Statt des Ambient Pads fügte ich auch einen Fabfilter-R Effekt und einige Sweeps sowie Risers hinzu, um mehr Energie zu dem Song zu bringen.</p>
+<h2 id="tag-59-18102024">Tag 59 - 18.10.2024</h2>
+<p>Ich fügte einen kleinen Riser hinzu und positionierte ihn so, dass er vor dem Drop anfängt. Dadurch bekommt der Drop mehr Energie.</p>
+<h2 id="tag-60-63-191024221024">Tag 60-63, 19.10.24–22.10.24:</h2>
+<p>Ich habe vergessen, an dem Projekt zu arbeiten.</p>
+<h2 id="tag-64-23102024">Tag 64 - 23.10.2024</h2>
+<p>Ich mixte den Master mehr und fügte das Plugin „Fruity Love Philter“ und „Fresh Air“ hinzu. Diese speziellen Plugins optimieren das High-End und machen den Sound voller.</p>
+<h2 id="tag-65-24102024">Tag 65 - 24.10.2024</h2>
+<p>Ich änderte den Mix für das Plugin „Fruity Love Philter“ und fügte einen Soft-Clipper zum Master hinzu. Dieser rundet die Frequenzen, die zu laut/hoch sind, ab und dämpft sie damit.</p>
+<h2 id="tag-66-25102024">Tag 66 - 25.10.2024</h2>
+<p>Ich fügte mehr Saturation mit dem Plugin „Saturn 2“ hinzu. Dies lässt den Sound aggressiver klingen. Dazu machte ich den Soft-Clipper lauter, für noch mehr Saturation.</p>
+<h2 id="tag-67-26102024">Tag 67 - 26.10.2024</h2>
+<p>Da der Song noch viele SFX Sounds braucht, fügte ich 10–20 SFX-Sounds hinzu und positionierte sie im Arrangement so, dass sie zum Drop perfekt passen.</p>
+<h2 id="tag-68-27102024">Tag 68 - 27.10.2024</h2>
+<p>Der Song war etwas leer in der Mitte (0:30–0:45), weswegen ich neue Vocals und Master-Effekte hinzufügte.</p>
+<h2 id="tag-69-28102024">Tag 69 - 28.10.2024</h2>
+<p>Um den Song noch voller klingen zu lassen, automatisierte ich den „Cut“ von dem Fruity Love Philter und variierte diesen so, dass er im Laufe des Songs stärker wird.</p>
+<h2 id="tag-70-29102024">Tag 70 - 29.10.2024</h2>
+<p>Heute habe ich vergessen, an dem Projekt zu arbeiten.</p>
+<h2 id="tag-71-30102024">Tag 71 - 30.10.2024</h2>
+<p>Da der Low-End von dem Bass sehr „Muddy“ (Frequenzen, die zu tief oder zu langsam sind) ist, entfernte ich diesen. Dazu fügte ich eine Melodie-Variation hinzu, um den Song in der Mitte zu erfrischen.</p>
+<h2 id="tag-72-31102024">Tag 72 - 31.10.2024</h2>
+<p>Ich habe den Song erstmal fertig gemacht. Habe etwas Mastering (Ozone 11 mehr stabalizing) hinzugefügt.</p>
+<h2 id="tag-73-01112024">Tag 73 - 01.11.2024</h2>
+<p>Ich habe den Namen für den zweiten Song entschieden. Er soll "PULA DA PULA" heißen. Der Name klingt aggressiv und passt zu dem Vibe des Albums.</p>
+<h2 id="tag-74-02112024">Tag 74 - 02.11.2024</h2>
+<p>Ich habe an den dritten Song des Albums angefangen. Er sollte sehr "heavy" (d.h. aggressiv, tief-tönig) klingen.</p>
+<h2 id="tag-75-03112024">Tag 75 - 03.11.2024</h2>
+<p>Nach ein paar versuchen schaffte ich es, eine gute Melodie hin zu bekommen. Ich layerte diese dann auch mit ein paar anderen Sounds.</p>
+<h2 id="tag-76-04112024">Tag 76 - 04.11.2024</h2>
+<p>Ich fügte eine Kick hinzu, jedoch passte sie noch nicht so ganz, weswegen ich sie stark mixte. Nach dem Mix hörte sie sich viel besser an.</p>
+<h2 id="tag-77-05112024">Tag 77 - 05.11.2024</h2>
+<p>Ich fügte noch ein Kick layer hinzu, dazu layerte ich die Melodie noch mehr, und fügte stereo seperation hinzu.</p>
+<h2 id="tag-78-06112024">Tag 78 - 06.11.2024</h2>
+<p>Ich fügte ein paar Intro Automations hinzu (Master fade-in, Love Philter)</p>
+<h2 id="tag-79-07112024">Tag 79 - 07.11.2024</h2>
+<p>Ich fügte auch ein paar Vocals hinzu, um den Sound zu füllen.</p>
+<h2 id="tag-80-88-081124-161124">Tag 80-88, 08.11.24-16.11.24:</h2>
+<p>Ich habe vergessen, an den Projekt zu arbeiten.</p>
+<h2 id="tag-89-17112024">Tag 89 - 17.11.2024</h2>
+<p>Ich fügte SFX und ein paar transitions hinzu und fing an, an dem zweiten Drop zu arbeiten.</p>
+<h2 id="tag-90-18112024">Tag 90 - 18.11.2024</h2>
+<p>Der zweite Drop ist nun fertig. Er ist ähnlich zu dem ersten mit sehr vielen SFX.</p>
+<h2 id="tag-91-19112024">Tag 91 - 19.11.2024</h2>
+<p>Ich mixte alle Elemente des Songs und fing mit den Mastering an.</p>
+<h2 id="tag-92-20112024">Tag 92 - 20.11.2024</h2>
+<p>Ich fügte das Outro hinzu und fing mit dem Mastering an.</p>
+<h2 id="tag-93-21112024">Tag 93 - 21.11.2024</h2>
+<p>Ich habe das Mastering gefinished, und so den Song fürs erste auch.</p>
+<h2 id="tag-94-22112024">Tag 94 - 22.11.2024</h2>
+<p>Heute habe ich vergessen, an den Song zu arbeiten.</p>
+<h2 id="tag-95-23112024">Tag 95 - 23.11.2024</h2>
+<p>Der name für den dritten Song soll "TREPA DO MEDO" sein. Ich finde dieser Name passt sehr.</p>
+<h2 id="tag-96-24112024">Tag 96 - 24.11.2024</h2>
+<p>Ich fing mit der Melodie des vierten Songs an, jedoch hatte ich nichts hingekriegt.</p>
+<h2 id="tag-97-25112024">Tag 97 - 25.11.2024</h2>
+<p>Ich habe mit der Hilfe meines Mentoren meine erste Melodie hingekriegt. Sie ist etwas weniger aggressiv.</p>
+<h2 id="tag-98-26112024">Tag 98 - 26.11.2024</h2>
+<p>Der Melodie habe ich einen guten Mix verleiht, ich fügte auch noch eine gute Kick hinzu.</p>
+<h2 id="tag-99-27112024">Tag 99 - 27.11.2024</h2>
+<p>Ich wechselte das Sample der Melodie, jetzt klingt sie viel besser.</p>
+<h2 id="tag-100-28112024">Tag 100 - 28.11.2024</h2>
+<p>Ich arbeitete an den zweiten Drop weiter und fügte schon SFX sowie transitions hinzu.</p>
+<h2 id="tag-101-29112024">Tag 101 - 29.11.2024</h2>
+<p>Ich fügte eine Melodie Variation hinzu, um mehr Würze zu dem Song zu geben.</p>
+<h2 id="tag-102-30112024">Tag 102 - 30.11.2024</h2>
+<p>Ich entfernte diese Melodie Variation wieder, da sie ehrlich gesagt nicht so gut klang. Ich fügte stattdessen ein Pad hinzu (für mehr Atmosphäre).</p>
+<h2 id="tag-103-110-011224-081224">Tag 103-110, 01.12.24-08.12.24:</h2>
+<p>Ich habe vergessen, an den Projekt zu arbeiten.</p>
+<h2 id="tag-111-09122024">Tag 111 - 09.12.2024</h2>
+<p>Ich fügte ein Outro hinzu und SFX hinzu (Sweeps, transitions).</p>
+<h2 id="tag-112-10122024">Tag 112 - 10.12.2024</h2>
+<p>Nachdem ich die SFX gemixt habe, fügte ich Mastering hinzu (Ozone 11 stabilizing &amp; imager).</p>
+<h2 id="tag-113-11122024">Tag 113 - 11.12.2024</h2>
+<p>Ich versuchte, den Master zu stärken mit ein paar mehr Plugins sowie einen besseren clipper.</p>
+<h2 id="tag-114-12122024">Tag 114 - 12.12.2024</h2>
+<p>Der dritte song "TREPA DO MEDO" ist nun fertig.</p>
+<h2 id="tag-115-13122024">Tag 115 - 13.12.2024</h2>
+<p>Ich habe an dem vierten Song angefangen und nannte ihn "CASA DO MORTA".</p>
+<h2 id="tag-116-14122024">Tag 116 - 14.12.2024</h2>
+<p>Ich habe vergessen, an den Projekt zu arbeiten.</p>
+<h2 id="tag-117-15122024">Tag 117 - 15.12.2024</h2>
+<p>Ich nahm ein paar Samples für die Melodie und fing an, an ihr zu arbeiten. Sie soll im 1/3 Step sein und einen "Bounce" haben.</p>
+<h2 id="tag-118-16122024">Tag 118 - 16.12.2024</h2>
+<p>Ich habe die Melodie, den Bass sowie das Intro-Arrangement fertig gestellt. Dazu habe ich auch ein paar SFX hinzugefügt zu dem intro.</p>
+<h2 id="tag-119-17122024">Tag 119 - 17.12.2024</h2>
+<p>Ich habe ein paar vocals, SFX und den Mid-Part hinzugefügt. Ich fügte einen "Vocal Doubler" zu den Vocals hinzu, welcher für Stereo-Seperation und Autotune gut ist.</p>
+<h2 id="tag-120-18122024">Tag 120 - 18.12.2024</h2>
+<p>Ich habe vergessen, an den Projekt zu arbeiten.</p>
+<h2 id="tag-121-19122024">Tag 121 - 19.12.2024</h2>
+<p>Ich hab den Mid-Part fertig gestellt und an den zweiten Drop angefangen zu arbeiten.</p>
+<h2 id="tag-122-20122024">Tag 122 - 20.12.2024</h2>
+<p>Ich habe den zweiten Drop fertig gemacht und SFX hinzugefügt.</p>
+<h2 id="tag-123-21122024">Tag 123 - 21.12.2024</h2>
+<p>Heute habe ich angefangen, das Mixing bei der Melodie und bei dem Bass richtig einzustellen.</p>
+<h2 id="tag-124-22122024">Tag 124 - 22.12.2024</h2>
+<p>Nachdem ich den Mix bei der Melodie und Bass fertig gemacht habe, änderte ich den Mix bei den Percs und fügte eine weiteres Pad hinzu um mehr Atmospäre zu den Song zu geben.</p>
+<h2 id="tag-125-23122024">Tag 125 - 23.12.2024</h2>
+<p>Ich fügte ein Outro hinzu und habe noch mehr SFX hinzugefügt. Ich entfernte ein paar Transitions die nicht gepasst haben.</p>
+<h2 id="tag-126-24122024">Tag 126 - 24.12.2024</h2>
+<p>Ich änderte ein bisschen die Drums und mixte sie mehr.</p>
+<h2 id="tag-127-25122024">Tag 127 - 25.12.2024</h2>
+<p>Ich habe vergessen, an den Projekt zu arbeiten.</p>
+<h2 id="tag-128-26122024">Tag 128 - 26.12.2024</h2>
+<p>Heute habe ich "CASA DO MORTA" fertig gestellt. Ich fixte etwas Mastering und Mixing und ich denke, er ist nun fertig.</p>
+<h2 id="tag-129-27122024">Tag 129 - 27.12.2024</h2>
+<p>Ich habe tatsächlich nochmal an der Melodie herumgespielt und sie nochmal etwas verbessert. Jetzt ist der Song wirklich fertig.</p>
+<h2 id="tag-130-28122024">Tag 130 - 28.12.2024</h2>
+<p>Ich habe einen neuen song angefangen. Er soll "MTG - RITMO FUNK" heißen. Ich habe probiert, einen etwas mehr einzigartigen Name auszudenken.</p>
+<h2 id="tag-131-29122024">Tag 131 - 29.12.2024</h2>
+<p>Ich habe probiert, eine einzigartige Melodie zu machen. Hat gut funkioniert.</p>
+<h2 id="tag-132-30122024">Tag 132 - 30.12.2024</h2>
+<p>Ich habe vergessen, an den Projekt zu arbeiten.</p>
+<h2 id="tag-133-140-311224-070125">Tag 133-140, 31.12.24-07.01.25:</h2>
+<p>Ich war im Urlaub, weswegen ich nicht an dem Projekt gearbeitet habe.</p>
+<h2 id="tag-141-08012025">Tag 141 - 08.01.2025</h2>
+<p>Ich Mixte und Masterte die Melody, Bass und die drums. Dazu fügte ich vocals, das Intro, Percs und den Mid-Part hinzu.</p>
+<h2 id="tag-142-09012025">Tag 142 - 09.01.2025</h2>
+<p>Nachdem ich die Vocals richtig platziert habe, fügte ich eine Accapella hinzu, um den Song voller klingen zu lassen. Die Acapella ist Copyright-frei.</p>
+<h2 id="tag-143-10012025">Tag 143 - 10.01.2025</h2>
+<p>Ich fügte sehr viele SFX sowie Transitions hinzu und arbeitete an den Mid-Part sowie an dem 2ten Drop.</p>
+<h2 id="tag-144-11012025">Tag 144 - 11.01.2025</h2>
+<p>Ich habe den 2ten Drop fertig gestellt und angefangen, an dem Outro zu arbeiten. Ich werde probieren, diese Songs etwas schneller fertig zu stellen.</p>
+<h2 id="tag-145-12012025">Tag 145 - 12.01.2025</h2>
+<p>Heute habe ich das Outro, Mastering (Ozone 11 Imager und Maximizer damit es lauter ist) sowie Mixing bei den SFX fertig gestellt.</p>
+<h2 id="tag-146-13012025">Tag 146 - 13.01.2025</h2>
+<p>Heute habe ich noch mehr SFX sowie Effekte wie der Fruity Love-Philter für High-End optimization und übergänge und Fresh Air für Mid to High-End Verstärkung (und natürlich noch den Soft clipper)</p>
+<h2 id="tag-147-14012025">Tag 147 - 14.01.2025</h2>
+<p>Ich habe den Song fürs erste fertig gestellt.</p>
+<h2 id="tag-148-15012025">Tag 148 - 15.01.2025</h2>
+<p>Ich habe einen neuen Song angefangen und ihn "UPWAVE" genannt.</p>
+<h2 id="tag-149-16012025">Tag 149 - 16.01.2025</h2>
+<p>Ich fing an mit der Hauptmelodie und dem Mixing und habe den High-End sowie die Mid-Range verstärkt.</p>
+<h2 id="tag-150-17012025">Tag 150 - 17.01.2025</h2>
+<p>Ich mixte die Melodie etwas mehr und fügte ein paar drums hinzu. Ich verlieh der Melodie einen interessanten 1/3 Rhythmus dabei.</p>
+<h2 id="tag-151-18012025">Tag 151 - 18.01.2025</h2>
+<p>Heute füge ich ein paar Voxes (einzelne Stimmen Geräusche wie "Woah!" oder "Wow!") zu dem Drop hinzu um mehr Energie dem Song zu verleihen.</p>
+<h2 id="tag-152-19012025">Tag 152 - 19.01.2025</h2>
+<p>Ich mixte die Drums etwas mehr und fing an mit dem Arrangement. Ich möchte, dass das Intro etwas mehr einzigartig ist.</p>
+<h2 id="tag-153-20012025">Tag 153 - 20.01.2025</h2>
+<p>Ich layerte die Hauptmelodie mit verschiedenen Sounds, um diese auch mehr einzigartig klingen zu lassen.</p>
+<h2 id="tag-154-21012025">Tag 154 - 21.01.2025</h2>
+<p>Heute arbeitete ich an dem Intro mehr, fügte ein paar SFX hinzu und arbeitete weiter an dem Mix.</p>
+<h2 id="tag-155-22012025">Tag 155 - 22.01.2025</h2>
+<p>Heute habe ich den Titel für das Album zu "NEXUS" umbenannt. Ich suche noch nach einem Cover. Ich habe dazu auch noch an dem Master gearbeitet (einen Clipper und Fresh air mit 30% auf Mid- und High-End hinzugefügt)</p>
+<h2 id="tag-156-23012025">Tag 156 - 23.01.2025</h2>
+<p>Ich habe an dem Intro von "UPWAVE" weiter gearbeitet, langsam klingt es besser.</p>
+<h2 id="tag-157-24012025">Tag 157 - 24.01.2025</h2>
+<p>Ich arbeitete noch ein bisschen an dem Master und fertigte den Mix an der Melodie (noch mehr High-End, Reverb, Delay).</p>
+<h2 id="tag-158-25012025">Tag 158 - 25.01.2025</h2>
+<p>Ich fertigte den Master und fügte mehr Saturation sowie Low-End hinzu.</p>
+<h2 id="tag-159-26012025">Tag 159 - 26.01.2025</h2>
+<p>Heute hab ich den Mid-Part des Arrangement feritg gestellt.</p>
+<h2 id="tag-160-27012025">Tag 160 - 27.01.2025</h2>
+<p>Heute habe ich an dem 2ten Drop gearbeitet und ihn auch fertig gestellt.</p>
+<h2 id="tag-161-28012025">Tag 161 - 28.01.2025</h2>
+<p>Ich fertigte den 2ten Drop sowie das Outro. Dazu masterte ich den Track auch schon ein bisschen mit "The Glue" (ein Saturation Plugin) und einem Soft Clipper.</p>
+<h2 id="tag-162-29012025">Tag 162 - 29.01.2025</h2>
+<p>Ich arbeitete noch ein bisschen an dem Master und jetzt sollte der Track fertig sein.</p>
+<h2 id="tag-163-30012025">Tag 163 - 30.01.2025</h2>
+<p>Ich merkte, dass das Intro bei FUNK DO RAVE nicht so gut klingt, weswegen ich dieses erneuert und verbessert habe.</p>
+<h2 id="tag-164-31012025">Tag 164 - 31.01.2025</h2>
+<p>Ich arbeitete ein bisschen an dem Cover bild und fügte ein bisschen Text sowie Effekte hinzu.</p>
+<h2 id="tag-165-01022025">Tag 165 - 01.02.2025</h2>
+<p>Heute habe ich ein bisschen an FUNK DO RAVE weiter herumgespielt, da ich den Song mehr aggressive klingen lassen wollte. Habe die Melodie mehr gelayered und sie lauter gemacht.</p>
+<h2 id="tag-166-02022025">Tag 166 - 02.02.2025</h2>
+<p>Heute habe ich an UPWAVE das Intro ein bisschen auch verbessert, da dies auch nicht so gut klang. Jetzt klingt es viel besser.</p>
+<h2 id="tag-167-03022025">Tag 167 - 03.02.2025</h2>
+<p>Ich polierte den Master von UPWAVE, FUNK DO RAVE und PULA DA PULA ein bisschen (damit er aggressiver klingt).</p>
+<h2 id="tag-168-04022025">Tag 168 - 04.02.2025</h2>
+<p>Ich fügte viel mehr Voxes und Vocals zu FUNK DO RAVE hinzu und stimmte diese auch.</p>
+<h2 id="tag-169-05022025">Tag 169 - 05.02.2025</h2>
+<p>Heute habe ich vergessen, an dem Projekt zu arbeiten.</p>
+<h2 id="tag-170-174-060225-100225">Tag 170-174, 06.02.25-10.02.25:</h2>
+<p>Heute habe ich vergessen, an dem Projekt zu arbeiten.</p>
+<h2 id="tag-175-11022025">Tag 175 - 11.02.2025</h2>
+<p>Ich habe an einem neuen Song angefangen, ihn aber dann wieder gelöscht da er nicht so gut klang.</p>
+<h2 id="tag-176-12022025">Tag 176 - 12.02.2025</h2>
+<p>Ich habe einen neuen Song gemacht und ihn "LUMINA FUNK" genannt (der Name kam mir jetzt so spontan in den Kopf). Ich hab bei dem Song auch schon die Melodie, den Bass und das Intro gemacht (Master Fade-In)</p>
+<h2 id="tag-177-13022025">Tag 177 - 13.02.2025</h2>
+<p>Ich habe den Mix und Master etwas gefixt und an dem Arrangementen etwas weitergearbeitet. Außerdem habe ich die Drums hinzugefügt und diese auch gemixt.</p>
+<h2 id="tag-178-14022025">Tag 178 - 14.02.2025</h2>
+<p>Heute hatte ich keine lust, an dem Projekt zu arbeiten.</p>
+<h2 id="tag-179-15022025">Tag 179 - 15.02.2025</h2>
+<p>Ich habe an den Arrangement weiter gearbeitet, SFX hinzugefügt und den zweiten Drop hinzugefügt.</p>
+<h2 id="tag-180-16022025">Tag 180 - 16.02.2025</h2>
+<p>Heute habe ich Vocals sowie Vox und mehr Transitions hinzufügt.</p>
+<h2 id="tag-181-187-17022025-23022025">Tag 181-187 - 17.02.2025-23.02.2025</h2>
+<p>Heute war ich krank und habe deswegen nicht an dem Projekt gearbeitet.</p>
+<h2 id="tag-188-24022025">Tag 188 - 24.02.2025</h2>
+<p>Ich habe an dem Outro angefangen zu arbeiten, und das Intro ein bisschen überarbeitet.</p>
+<h2 id="tag-189-204-25022025-12032025">Tag 189-204 - 25.02.2025-12.03.2025</h2>
+<p>Heute war ich krank und habe deswegen nicht an dem Projekt gearbeitet.</p>
+<h2 id="tag-205-13032025">Tag 205 - 13.03.2025</h2>
+<p>Ich habe das Outro fertig gemacht, und den Mix der Melodie etwas verbessert. Der Song ist nun fertig.</p>
+<h2 id="tag-206-14032025">Tag 206 - 14.03.2025</h2>
+<p>Ich habe an einem neuen Song angefangen, und ihn "NIAX" genannt. Klingt cool, finde ich. Ich habe an der Melodie gearbeitet, und ein paar Drums hinzugefügt.</p>
+<h2 id="tag-207-15032025">Tag 207 - 15.03.2025</h2>
+<p>Ich habe ein speziellen "Bitcrush" Effekt auf den Master hinzugefügt, der den Song etwas komprimierter klingen lässt. Dies erstellt einen einzigarten Vibe, den ich sehr interessant finde.</p>
+<h2 id="tag-208-16032025">Tag 208 - 16.03.2025</h2>
+<p>Heute habe ich an dem Intro und dem Mid-Part weiter gearbeitet und den Master fertig gemacht (mehr High-End).</p>
+<h2 id="tag-209-17032025">Tag 209 - 17.03.2025</h2>
+<p>Ich habe den zweiten Drop fertig gemacht, einen Bass hinzugefügt und etwas Saturation zu dem Bass hinzugefügt.</p>
+<h2 id="tag-210-18032025">Tag 210 - 18.03.2025</h2>
+<p>Ich variierte die Drums etwas und fügte noch mehr SFX hinzu.</p>
+<h2 id="tag-211-19032025">Tag 211 - 19.03.2025</h2>
+<p>Ich fügte noch mehr SFX hinzu (Risers, Crashes, etc.) und arbeitete weiter an dem Arrangement (Outro)</p>
+<h2 id="tag-212-20032025">Tag 212 - 20.03.2025</h2>
+<p>Ich habe das Outro fertig gemacht (Lautstärke Fade-In) und ein paar Transitions hinzugefügt.</p>
+<h2 id="tag-213-21032025">Tag 213 - 21.03.2025</h2>
+<p>Ich habe an dem Master noch etwas gearbeitet, ich denke NIAX ist nun fertig.</p>
+<h2 id="tag-214-22032025">Tag 214 - 22.03.2025</h2>
+<p>Heute habe ich an NIAX noch ein bisschen mehr gearbeitet (leichte Mix veränderung und Arrangement fehlerbehebung), nun ist er wirklich fertig.</p>
+<h2 id="tag-215-23032025">Tag 215 - 23.03.2025</h2>
+<p>Heute habe ich einen neuen Song angefangen, er soll "APELO DO CIMA" heißen (klingt cool irgendwie).</p>
+<h2 id="tag-216-24032025">Tag 216 - 24.03.2025</h2>
+<p>Ich habe an einer Melodie angefangen, und schonmal die Drums sowie das Mastering hinzugefügt.</p>
+<h2 id="tag-217-25032025">Tag 217 - 25.03.2025</h2>
+<p>Ich habe die Drums fertig gemixt und platziert, sowie die Melodie gelayered. Ich habe dazu schon ein paar SFX (Transitions und Crashes) hinuzugefügt.</p>
+<h2 id="tag-218-26032025">Tag 218 - 26.03.2025</h2>
+<p>Ich habe ein paar Vocals und das Intro fertig gemacht. Dazu habe ich den Melodie-Mix verbessert (mehr Reverb und High-End).</p>
+<h2 id="tag-219-27032025">Tag 219 - 27.03.2025</h2>
+<p>Ich habe den Mid-Part hinzugefügt (Love-Philter, SFX sowie eine leichte Melodie Variation und Vocals).</p>
+<h2 id="tag-220-28032025">Tag 220 - 28.03.2025</h2>
+<p>Ich habe an den zweiten Drop gearbeitet, und eine starke Melodie Variation hinzugefügt sowie einen dritten Drop (der direkt danach kommt) wobei die Melodie wieder zu der normalne Variation zurückkehrt.</p>
+<h2 id="tag-221-29032025">Tag 221 - 29.03.2025</h2>
+<p>Ich habe das Outro hinzugefügt und fertig gestellt. Ich habe auch den Master und Mix der individuellen Sounds verbessert.</p>
+<h2 id="tag-222-30032025">Tag 222 - 30.03.2025</h2>
+<p>Ich habe den Mix der Melodie und die Sidechain von der Kick zu der Melodie und Bass erneuert. Dadurch hat die Melodie auch mehr High-End, welches den Klang deutlich verbessert. Die Sidechain ist nun kürzer aber stärker, wordurch sie nicht zu lang die Melodie leiser macht.</p>
+<h2 id="tag-223-31032025">Tag 223 - 31.03.2025</h2>
+<p>Ich habe noch mehr an dem Master gearbeitet (mit Ozone 11).</p>
+<h2 id="tag-224-01042025">Tag 224 - 01.04.2025</h2>
+<p>Heute habe ich noch ein paar SFX hinzugefügt sowohl dessen Lautstärke reduziert. Meine Leistung ist leider beschränkt, da ich krank bin.</p>
+<h2 id="tag-225-02042025">Tag 225 - 02.04.2025</h2>
+<p>Heute habe ich APELO DO CIMA fertig gemacht. Ich habe die Melodie noch mehr gelayered und sie Stereo-Seperated (um den Sound breiter und stärker klingen zu lassen).</p>
+<h2 id="tag-226-03042025">Tag 226 - 03.04.2025</h2>
+<p>Ich habe einen neuen Song erstellt, er soll "HYPNO DA FUNK" heißen. Er soll sehr aggressiv und intensiv klingen.</p>
+<h2 id="tag-227-04042025">Tag 227 - 04.04.2025</h2>
+<p>Ich habe eine Melodie mit sehr vielen layern erstellt, und diese extrem aggressiv gemixt. Außerdem habe ich noch den Bass hinzugefügt und gemixt (sehr viel Saturation und Low-End).</p>
+<h2 id="tag-228-05042025">Tag 228 - 05.04.2025</h2>
+<p>Die melodie ist nun fertig. Ich fügte noch sehr viel Distortion und vocals hinzu. Außerdem machte ich die Drums, und mixte diese auch leicht (High-End leicht entfernt). Ich bin nicht mehr krank, weswegen ich jetzt auf jedenfall besser arbeiten kann.</p>
+<h2 id="tag-229-06042025">Tag 229 - 06.04.2025</h2>
+<p>Ich erstellte ein Intro, den ersten Drop und den Mid-Part. Dazu fügte ich auch noch SFX und Transitions hinzu, um den Drop auch mehr Energie zu geben.</p>
+<h2 id="tag-230-07042025">Tag 230 - 07.04.2025</h2>
+<p>Ich mixte alle Sounds und fügte eine Vocal hinzu für das Intro.</p>
+<h2 id="tag-231-08042025">Tag 231 - 08.04.2025</h2>
+<p>Ich entfernte wieder die Vocal und ersetzte sie mit einer anderen (die besser klingt). Dann mixte ich diese Vocal auch noch.</p>
+<h2 id="tag-232-239-09042025-16042025">Tag 232-239 - 09.04.2025-16.04.2025</h2>
+<p>Heute habe ich nicht an dem Projekt gearbeitet, weil ich im Urlaub war.</p>
+<h2 id="tag-240-17042025">Tag 240 - 17.04.2025</h2>
+<p>Ich fügte eine Counter-Melodie hinzu, um dem Song etwas variation zu geben. Diese hat sehr viel High-End, da zurzeit im Song nicht viel davon vorhanden ist.</p>
+<h2 id="tag-241-18042025">Tag 241 - 18.04.2025</h2>
+<p>Heute habe ich den zweiten Drop und den Master fertig gestellt (Ozone 11, Saturn 2, Fresh Air, Fruity Love-Philter).</p>
+<h2 id="tag-242-19042025">Tag 242 - 19.04.2025</h2>
+<p>Ich habe noch ein paar SFX hinzugefügt sowie das Ouro hinzugefügt.</p>
+<h2 id="tag-243-20042025">Tag 243 - 20.04.2025</h2>
+<p>Ich habe die Sidechain noch etwas stärker gemacht und ein paar SFX entfernt (ich hatte ausversehen davor zu viele hinzugefügt). Der Song ist nun fertig denke ich, ich werde in den nächsten Tagen ihn noch ein paar mal anhören und gucken ob er wirklich fertig ist.</p>
+<h2 id="tag-244-21042025">Tag 244 - 21.04.2025</h2>
+<p>Heute habe ich jeden Song nochmal angehört und jeweils nochmal leicht überarbeitet. Ich habe bei NIAX ein paar Pads hinzugefügt, um es etwas voller klingen zu lassen. Außerdem habe ich bei FUNK DO RAVE auch noch das Intro (mal wieder) leicht überarbeitet. Dieses Intro bei den Song ist irgendwie sehr schwer richtig hinzukriegen.</p>
+<h2 id="tag-245-22042025">Tag 245 - 22.04.2025</h2>
+<p>Heute habe ich vergessen, an dem Projekt zu arbeiten.</p>
+<h2 id="tag-246-23042025">Tag 246 - 23.04.2025</h2>
+<p>Heute habe ich vergessen, an dem Projekt zu arbeiten.</p>
+<h2 id="tag-247-24042025">Tag 247 - 24.04.2025</h2>
+<p>Heute habe ich vergessen, an dem Projekt zu arbeiten.</p>
+<h2 id="tag-248-25042025">Tag 248 - 25.04.2025</h2>
+<p>Ich hab die Melodie layers bei CASA DO MORTA erneuert, verbessert und mehr gemixt. Ich gehe einfach gerade jeden einzelnen Song nochmal durch und versuche diese noch zu verbessern wenn es etwas zu verbessern gibt. Dann habe ich bei TREPA DO MEDO nochmal die Vocals etwas leiser gemacht.</p>
+<h2 id="tag-249-26042025">Tag 249 - 26.04.2025</h2>
+<p>Heute habe ich an LUMINA FUNK leichte veränderungen noch gemacht (OTT auf die Melodie gepackt für mehr High-End und die Layers der Melodie etwas leiser gemacht).</p>
+<h2 id="tag-250-27042025">Tag 250 - 27.04.2025</h2>
+<p>Heute habe die "Slowed Down" Versionen von FUNK DO RAVE und NIAX gemacht (mit der Pitch-Down Funktion von FL Studio).</p>
+<h2 id="tag-251-28042025">Tag 251 - 28.04.2025</h2>
+<p>Heute habe ich vergessen, an dem Projekt zu arbeiten.</p>
+<h2 id="tag-252-29042025">Tag 252 - 29.04.2025</h2>
+<p>Heute hatte ich keine lust, an dem Projekt zu arbeiten.</p>
+<h2 id="tag-253-30042025">Tag 253 - 30.04.2025</h2>
+<p>Heute habe ich an dem letzten Song angefangen. Er soll "PLUSWAVE" heißen, klingt irgendwie cool (und passt zu dem anderen Song "UPWAVE"). Ich habe die Melodie, die Drums, den Mix bei der Melodie und den Drums, die Vocals, das Intro sowie den ersten Drop und Mid-part hinzugefügt. Sehr viel gearbeitet heute.</p>
+<h2 id="tag-254-01052025">Tag 254 - 01.05.2025</h2>
+<p>Ich habe den zweiten Drop sowie sehr viele SFX (Riser, Crashes, Impacts) hinzugefügt. Dazu habe ich im Intro einen Master Fade-In sowie viele Melodie layers hinzugefügt. Dazu habe ich den Bass und die verschiedenen Layer gemixt.</p>
+<h2 id="tag-255-02052025">Tag 255 - 02.05.2025</h2>
+<p>Heute habe ich das Outro gemacht sowie das ganze Mastering (mal wieder Ozone 11, Soft clipper, Fresh air und Saturn 2) gemacht und ein bisschen das Arrangement weitergebracht.</p>
+<h2 id="tag-256-03052025">Tag 256 - 03.05.2025</h2>
+<p>Heute habe ich ein paar Melodie Variation hinzugefügt und dabei noch die Melodie ansich leicht verändert. Dann habe ich den Song noch ein paar mal angehört, und ihn jeweils poliert und verbessert. Er sollte nun fertig sein.</p>
+<h2 id="tag-257-04052025">Tag 257 - 04.05.2025</h2>
+<p>Das Album ist jetzt soweit fertig, heute habe ich jeden Song nochmal angehört und leicht verbessert oder geändert. Dazu habe ich noch das Coverbild komplett neu gemacht und auch Effekte hinzugefügt.</p>
+<h2 id="tag-258-05052025">Tag 258 - 05.05.2025</h2>
+<p>Heute habe ich vergessen, an dem Projekt zu arbeiten.</p>
+<h2 id="tag-259-06052025">Tag 259 - 06.05.2025</h2>
+<p>Heute hatte ich keine lust, an dem Projekt zu arbeiten.</p>
+<h2 id="tag-260-07052025">Tag 260 - 07.05.2025</h2>
+<p>Heute habe ich ein letztes mal noch an PULA DA PULA gearbeitet und den Mix sowie die Melodie verbessert.</p>
+<h2 id="tag-261-08052025">Tag 261 - 08.05.2025</h2>
+<p>Ich habe die Reihenfolge der Songs nochmal genau bestimmt und geguckt, welche Songs oben und welche unten sein sollten.</p>
+<h2 id="tag-262-09052025">Tag 262 - 09.05.2025</h2>
+<p>Heute habe ich die Größe des Covers nochmal neu gemacht und kleiner gemacht, damit der Distributor den ich benutze (Distrokid) das Coverbild auch benutzen kann (es war am Anfang zu groß).</p>
+<h2 id="tag-263-10052025">Tag 263 - 10.05.2025</h2>
+<p>Heute habe ich eigentlich nur an der Dokumentation gearbeitet, und am den eigentlichen Projekt nicht viel geändert.</p>
+<h2 id="tag-264-11052025">Tag 264 - 11.05.2025</h2>
+<p>Heute habe ich eigentlich nur an der Dokumentation gearbeitet, und am den eigentlichen Projekt nicht viel geändert.</p>
+<h2 id="tag-265-12052025">Tag 265 - 12.05.2025</h2>
+<p>Ich habe heute probiert, das Album schonmal zu Distributieren. Jedoch habe ich ausversehen den falschen Künstler ausgewählt, und musste deswegen alles abbrechen und dann nochmal vorbereiten.</p>
+<h2 id="tag-266-13052025">Tag 266 - 13.05.2025</h2>
+<p>Heute habe ich nochmal an dem Coverbild etwas weitergearbeitet, und ein bisschen die Effekte verändert und leicht schwächer gemacht.</p>
+<h2 id="tag-267-14052025">Tag 267 - 14.05.2025</h2>
+<p>Heute habe ich vergessen, an dem Projekt zu arbeiten.</p>
+<h2 id="tag-268-15052025">Tag 268 - 15.05.2025</h2>
+<p>Heute habe ich vergessen, an dem Projekt zu arbeiten.</p>
+<h2 id="tag-269-16052025">Tag 269 - 16.05.2025</h2>
+<p>Heute musste ich an vielen anderen Songs arbeiten, weswegen ich nicht and dem Projekt gearbeitet habe.</p>
+<h2 id="tag-270-17052025">Tag 270 - 17.05.2025</h2>
+<p>Ich habe heute nochmal von allen Songs die "Slowed" und "Sped Up" Versionen erstellt und verarbeitet.</p>
+<h2 id="tag-271-18052025">Tag 271 - 18.05.2025</h2>
+<p>Heute habe ich das Album endlich distributiert, es soll am nächsten Freitag den 23ten Mai um 00:00 veröffentlich werden. Jetzt muss ich nur noch warten.</p>
+<h2 id="tag-272-19052025">Tag 272 - 19.05.2025</h2>
+<p>Heute habe ich gewartet.</p>
+<h2 id="tag-273-20052025">Tag 273 - 20.05.2025</h2>
+<p>Heute habe ich gewartet.</p>
+<h2 id="tag-274-21052025">Tag 274 - 21.05.2025</h2>
+<p>Heute habe ich gewartet. Dazu habe ich auch schon geguckt, ob das Album auf meiner "Upcoming" Seite bei Spotify erscheint. Heute ist es dort endlich erschienen.</p>
+<h2 id="tag-275-22052025">Tag 275 - 22.05.2025</h2>
+<p>Heute habe ich gewartet. Morgen wird das Album veröffentlicht!</p>
+
+
+
+
+
+
+
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+          <button type="button" class="md-top md-icon" data-md-component="top" hidden>
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8z"/></svg>
+  Zurück zum Seitenanfang
+</button>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+    <div class="md-copyright__highlight">
+      Copyright &copy; 2024-2025 Jakob Adams.
+    </div>
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+      <div class="md-progress" data-md-component="progress" role="progressbar"></div>
+    
+    
+    
+      
+      <script id="__config" type="application/json">{"base": ".", "features": ["navigation.instant", "navigation.instant.progress", "navigation.indexes", "navigation.top"], "search": "assets/javascripts/workers/search.d50fe291.min.js", "tags": null, "translations": {"clipboard.copied": "In Zwischenablage kopiert", "clipboard.copy": "In Zwischenablage kopieren", "search.result.more.one": "1 weiteres Suchergebnis auf dieser Seite", "search.result.more.other": "# weitere Suchergebnisse auf dieser Seite", "search.result.none": "Keine Suchergebnisse", "search.result.one": "1 Suchergebnis", "search.result.other": "# Suchergebnisse", "search.result.placeholder": "Suchbegriff eingeben", "search.result.term.missing": "Es fehlt", "select.version": "Version ausw\u00e4hlen"}, "version": null}</script>
+    
+    
+      <script src="assets/javascripts/bundle.13a4f30d.min.js"></script>
+      
+    
+  </body>
+</html>
